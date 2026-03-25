@@ -8400,5 +8400,5539 @@
         "example": "ギリシャ神話の本を読んだ。"
       }
     ]
+  },
+  {
+    "id": 240,
+    "grade": 3,
+    "kanji": "悪",
+    "readings": {
+      "on": [
+        "アク",
+        "オ"
+      ],
+      "kun": [
+        "わる-い"
+      ]
+    },
+    "origin": "心と亜を組み合わせた字。心がゆがんでいることを表す。",
+    "vocabulary": [
+      {
+        "word": "悪人",
+        "reading": "あくにん",
+        "meaning": "悪いことをする人",
+        "example": "悪人をたおすヒーローが活躍する。"
+      },
+      {
+        "word": "悪化",
+        "reading": "あっか",
+        "meaning": "状態がさらに悪くなること",
+        "example": "病気が悪化して入院した。"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "grade": 3,
+    "kanji": "安",
+    "readings": {
+      "on": [
+        "アン"
+      ],
+      "kun": [
+        "やす-い"
+      ]
+    },
+    "origin": "屋根の下に女がいる形。家の中で安心していることを表す。",
+    "vocabulary": [
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "心配がなく落ち着いていること",
+        "example": "無事に帰って安心した。"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "危険がないこと",
+        "example": "安全な場所に避難する。"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "grade": 3,
+    "kanji": "暗",
+    "readings": {
+      "on": [
+        "アン"
+      ],
+      "kun": [
+        "くら-い"
+      ]
+    },
+    "origin": "日と音を組み合わせた字。音が聞こえるほど暗いことを表す。",
+    "vocabulary": [
+      {
+        "word": "暗闇",
+        "reading": "くらやみ",
+        "meaning": "光がなく真っ暗な場所",
+        "example": "暗闇の中で音がした。"
+      },
+      {
+        "word": "暗記",
+        "reading": "あんき",
+        "meaning": "覚えて忘れないようにすること",
+        "example": "漢字を暗記する。"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "grade": 3,
+    "kanji": "医",
+    "readings": {
+      "on": [
+        "イ"
+      ],
+      "kun": []
+    },
+    "origin": "矢（やじり）と酉（さけつぼ）を組み合わせた字。薬で病気を治すことを表す。",
+    "vocabulary": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "病気を治す仕事の人",
+        "example": "医者に診てもらう。"
+      },
+      {
+        "word": "医院",
+        "reading": "いいん",
+        "meaning": "医者が診察する場所",
+        "example": "近くの医院に行く。"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "grade": 3,
+    "kanji": "委",
+    "readings": {
+      "on": [
+        "イ"
+      ],
+      "kun": [
+        "ゆだ-ねる"
+      ]
+    },
+    "origin": "女と禾を組み合わせた字。人にまかせることを表す。",
+    "vocabulary": [
+      {
+        "word": "委員",
+        "reading": "いいん",
+        "meaning": "選ばれて仕事をする人",
+        "example": "学級委員に選ばれた。"
+      },
+      {
+        "word": "委員会",
+        "reading": "いいんかい",
+        "meaning": "委員が集まって話し合う会",
+        "example": "委員会で意見を出す。"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "grade": 3,
+    "kanji": "意",
+    "readings": {
+      "on": [
+        "イ"
+      ],
+      "kun": []
+    },
+    "origin": "心と音を組み合わせた字。心の中の考えを表す。",
+    "vocabulary": [
+      {
+        "word": "意見",
+        "reading": "いけん",
+        "meaning": "自分の考えや思い",
+        "example": "会議で意見を述べる。"
+      },
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning": "言葉や物事が表す内容",
+        "example": "この言葉の意味を調べる。"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "grade": 3,
+    "kanji": "育",
+    "readings": {
+      "on": [
+        "イク"
+      ],
+      "kun": [
+        "そだ-てる",
+        "そだ-つ"
+      ]
+    },
+    "origin": "子どもがさかさまに生まれてくる形と肉を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "育てる",
+        "reading": "そだてる",
+        "meaning": "成長するように世話をすること",
+        "example": "花を大切に育てる。"
+      },
+      {
+        "word": "教育",
+        "reading": "きょういく",
+        "meaning": "知識や技術を教えること",
+        "example": "子どもの教育に力を入れる。"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "grade": 3,
+    "kanji": "員",
+    "readings": {
+      "on": [
+        "イン"
+      ],
+      "kun": []
+    },
+    "origin": "鼎（かなえ）と貝を組み合わせた字。人数を表す。",
+    "vocabulary": [
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "meaning": "お店で働く人",
+        "example": "店員さんに聞く。"
+      },
+      {
+        "word": "全員",
+        "reading": "ぜんいん",
+        "meaning": "その場にいる人全員",
+        "example": "全員で協力する。"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "grade": 3,
+    "kanji": "院",
+    "readings": {
+      "on": [
+        "イン"
+      ],
+      "kun": []
+    },
+    "origin": "阜と完を組み合わせた字。囲まれた建物を表す。",
+    "vocabulary": [
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "病気やけがを治す施設",
+        "example": "病院で診察を受ける。"
+      },
+      {
+        "word": "院長",
+        "reading": "いんちょう",
+        "meaning": "病院や施設の長",
+        "example": "院長先生にあいさつする。"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "grade": 3,
+    "kanji": "飲",
+    "readings": {
+      "on": [
+        "イン"
+      ],
+      "kun": [
+        "の-む"
+      ]
+    },
+    "origin": "食と欠（口を開けている人）を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "液体を口から体に入れること",
+        "example": "水をたくさん飲む。"
+      },
+      {
+        "word": "飲料",
+        "reading": "いんりょう",
+        "meaning": "飲み物のこと",
+        "example": "飲料を冷蔵庫に入れる。"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "grade": 3,
+    "kanji": "運",
+    "readings": {
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "はこ-ぶ"
+      ]
+    },
+    "origin": "辶と軍を組み合わせた字。軍隊が動くことから、運ぶことを表す。",
+    "vocabulary": [
+      {
+        "word": "運動",
+        "reading": "うんどう",
+        "meaning": "体を動かすこと",
+        "example": "毎日運動する習慣をつける。"
+      },
+      {
+        "word": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "物を持って移動すること",
+        "example": "荷物を運ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "grade": 3,
+    "kanji": "泳",
+    "readings": {
+      "on": [
+        "エイ"
+      ],
+      "kun": [
+        "およ-ぐ"
+      ]
+    },
+    "origin": "水と永を組み合わせた字。水の中を進むことを表す。",
+    "vocabulary": [
+      {
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "meaning": "水の中を進むこと",
+        "example": "プールで泳ぐ練習をする。"
+      },
+      {
+        "word": "水泳",
+        "reading": "すいえい",
+        "meaning": "水の中を泳ぐスポーツ",
+        "example": "水泳の授業がある。"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "grade": 3,
+    "kanji": "駅",
+    "readings": {
+      "on": [
+        "エキ"
+      ],
+      "kun": []
+    },
+    "origin": "馬と尺を組み合わせた字。昔、馬を乗り換える場所を表す。",
+    "vocabulary": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "電車が止まる場所",
+        "example": "駅で友達と待ち合わせる。"
+      },
+      {
+        "word": "駅員",
+        "reading": "えきいん",
+        "meaning": "駅で働く人",
+        "example": "駅員さんに道を聞く。"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "grade": 3,
+    "kanji": "央",
+    "readings": {
+      "on": [
+        "オウ"
+      ],
+      "kun": []
+    },
+    "origin": "人が両手を広げた形の中心を表す字。",
+    "vocabulary": [
+      {
+        "word": "中央",
+        "reading": "ちゅうおう",
+        "meaning": "真ん中のこと",
+        "example": "広場の中央に立つ。"
+      },
+      {
+        "word": "央",
+        "reading": "おう",
+        "meaning": "まん中",
+        "example": "中央線で行く。"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "grade": 3,
+    "kanji": "横",
+    "readings": {
+      "on": [
+        "オウ"
+      ],
+      "kun": [
+        "よこ"
+      ]
+    },
+    "origin": "木と黄を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "横",
+        "reading": "よこ",
+        "meaning": "左右の方向・側面",
+        "example": "道の横に花が咲いている。"
+      },
+      {
+        "word": "横断",
+        "reading": "おうだん",
+        "meaning": "横に渡ること",
+        "example": "横断歩道を渡る。"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "grade": 3,
+    "kanji": "屋",
+    "readings": {
+      "on": [
+        "オク"
+      ],
+      "kun": [
+        "や"
+      ]
+    },
+    "origin": "尸と至を組み合わせた字。屋根のある建物を表す。",
+    "vocabulary": [
+      {
+        "word": "屋根",
+        "reading": "やね",
+        "meaning": "建物の上をおおうもの",
+        "example": "屋根に雪が積もった。"
+      },
+      {
+        "word": "本屋",
+        "reading": "ほんや",
+        "meaning": "本を売るお店",
+        "example": "本屋で本を買う。"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "grade": 3,
+    "kanji": "温",
+    "readings": {
+      "on": [
+        "オン"
+      ],
+      "kun": [
+        "あたた-かい",
+        "あたた-める"
+      ]
+    },
+    "origin": "水と囚（人が湯の中にいる）を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "温かい",
+        "reading": "あたたかい",
+        "meaning": "ほどよく暖かい",
+        "example": "温かいスープを飲む。"
+      },
+      {
+        "word": "温度",
+        "reading": "おんど",
+        "meaning": "暑さ寒さの度合い",
+        "example": "室内の温度を確かめる。"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "grade": 3,
+    "kanji": "化",
+    "readings": {
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "ば-ける",
+        "か-わる"
+      ]
+    },
+    "origin": "人が変わった姿になることを表す字。",
+    "vocabulary": [
+      {
+        "word": "変化",
+        "reading": "へんか",
+        "meaning": "形や状態が変わること",
+        "example": "季節の変化を感じる。"
+      },
+      {
+        "word": "文化",
+        "reading": "ぶんか",
+        "meaning": "人間が作り上げた生活の形",
+        "example": "日本の文化を学ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "grade": 3,
+    "kanji": "荷",
+    "readings": {
+      "on": [
+        "カ"
+      ],
+      "kun": [
+        "に"
+      ]
+    },
+    "origin": "草と何を組み合わせた字。荷物の意味を持つ。",
+    "vocabulary": [
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "meaning": "運ぶ物・持ち物",
+        "example": "重い荷物を持つ。"
+      },
+      {
+        "word": "荷台",
+        "reading": "にだい",
+        "meaning": "荷物を乗せる台",
+        "example": "車の荷台に荷物を積む。"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "grade": 3,
+    "kanji": "界",
+    "readings": {
+      "on": [
+        "カイ"
+      ],
+      "kun": []
+    },
+    "origin": "田と介を組み合わせた字。区切られた範囲を表す。",
+    "vocabulary": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "地球上のすべての場所",
+        "example": "世界中を旅したい。"
+      },
+      {
+        "word": "界",
+        "reading": "かい",
+        "meaning": "特定の世界・分野",
+        "example": "音楽の世界で活躍する。"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "grade": 3,
+    "kanji": "開",
+    "readings": {
+      "on": [
+        "カイ"
+      ],
+      "kun": [
+        "ひら-く",
+        "あ-ける"
+      ]
+    },
+    "origin": "門と両手で開ける形を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "開く",
+        "reading": "ひらく",
+        "meaning": "閉じていたものを広げること",
+        "example": "窓を開く。"
+      },
+      {
+        "word": "開会",
+        "reading": "かいかい",
+        "meaning": "会や行事を始めること",
+        "example": "開会式が始まる。"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "grade": 3,
+    "kanji": "階",
+    "readings": {
+      "on": [
+        "カイ"
+      ],
+      "kun": []
+    },
+    "origin": "阜と皆を組み合わせた字。段になった場所を表す。",
+    "vocabulary": [
+      {
+        "word": "階段",
+        "reading": "かいだん",
+        "meaning": "段になって上り下りする場所",
+        "example": "階段を上る。"
+      },
+      {
+        "word": "三階",
+        "reading": "さんかい",
+        "meaning": "建物の三番目の層",
+        "example": "三階の教室に行く。"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "grade": 3,
+    "kanji": "寒",
+    "readings": {
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "さむ-い"
+      ]
+    },
+    "origin": "宀と草と氷を組み合わせた字。寒い様子を表す。",
+    "vocabulary": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "meaning": "気温が低くて冷たい",
+        "example": "冬は寒い日が続く。"
+      },
+      {
+        "word": "寒波",
+        "reading": "かんぱ",
+        "meaning": "非常に寒い空気の塊",
+        "example": "寒波が来て雪が降った。"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "grade": 3,
+    "kanji": "感",
+    "readings": {
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "かん-じる"
+      ]
+    },
+    "origin": "咸と心を組み合わせた字。心で感じることを表す。",
+    "vocabulary": [
+      {
+        "word": "感じる",
+        "reading": "かんじる",
+        "meaning": "心や体で受け取ること",
+        "example": "春の暖かさを感じる。"
+      },
+      {
+        "word": "感動",
+        "reading": "かんどう",
+        "meaning": "深く心を動かされること",
+        "example": "映画を見て感動した。"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "grade": 3,
+    "kanji": "漢",
+    "readings": {
+      "on": [
+        "カン"
+      ],
+      "kun": []
+    },
+    "origin": "水と難を組み合わせた字。中国の漢民族や漢字を表す。",
+    "vocabulary": [
+      {
+        "word": "漢字",
+        "reading": "かんじ",
+        "meaning": "中国から伝わった文字",
+        "example": "漢字の書き順を練習する。"
+      },
+      {
+        "word": "漢文",
+        "reading": "かんぶん",
+        "meaning": "中国の古い文章",
+        "example": "漢文を読む勉強をする。"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "grade": 3,
+    "kanji": "館",
+    "readings": {
+      "on": [
+        "カン"
+      ],
+      "kun": [
+        "やかた"
+      ]
+    },
+    "origin": "食と官を組み合わせた字。大きな建物を表す。",
+    "vocabulary": [
+      {
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": "本を集めて貸す場所",
+        "example": "図書館で本を借りる。"
+      },
+      {
+        "word": "体育館",
+        "reading": "たいいくかん",
+        "meaning": "運動をする大きな建物",
+        "example": "体育館で練習する。"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "grade": 3,
+    "kanji": "岸",
+    "readings": {
+      "on": [
+        "ガン"
+      ],
+      "kun": [
+        "きし"
+      ]
+    },
+    "origin": "山と干を組み合わせた字。水辺の端を表す。",
+    "vocabulary": [
+      {
+        "word": "岸",
+        "reading": "きし",
+        "meaning": "水辺の端・陸地の縁",
+        "example": "川の岸に座る。"
+      },
+      {
+        "word": "海岸",
+        "reading": "かいがん",
+        "meaning": "海と陸地の境目",
+        "example": "海岸を散歩する。"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "grade": 3,
+    "kanji": "起",
+    "readings": {
+      "on": [
+        "キ"
+      ],
+      "kun": [
+        "お-きる",
+        "お-こす"
+      ]
+    },
+    "origin": "走と巳を組み合わせた字。立ち上がることを表す。",
+    "vocabulary": [
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "寝ていた状態から立ち上がること",
+        "example": "朝早く起きる。"
+      },
+      {
+        "word": "起立",
+        "reading": "きりつ",
+        "meaning": "立ち上がること",
+        "example": "先生に言われて起立する。"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "grade": 3,
+    "kanji": "期",
+    "readings": {
+      "on": [
+        "キ",
+        "ゴ"
+      ],
+      "kun": []
+    },
+    "origin": "其と月を組み合わせた字。時期・期間を表す。",
+    "vocabulary": [
+      {
+        "word": "期間",
+        "reading": "きかん",
+        "meaning": "ある時点からある時点までの間",
+        "example": "夏休みの期間は一か月だ。"
+      },
+      {
+        "word": "期待",
+        "reading": "きたい",
+        "meaning": "良いことを望んで待つこと",
+        "example": "試合の結果に期待する。"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "grade": 3,
+    "kanji": "客",
+    "readings": {
+      "on": [
+        "キャク",
+        "カク"
+      ],
+      "kun": []
+    },
+    "origin": "宀と各を組み合わせた字。訪れる人を表す。",
+    "vocabulary": [
+      {
+        "word": "客",
+        "reading": "きゃく",
+        "meaning": "訪ねてくる人・お客さん",
+        "example": "お客さんが来た。"
+      },
+      {
+        "word": "乗客",
+        "reading": "じょうきゃく",
+        "meaning": "乗り物に乗っている人",
+        "example": "電車の乗客が多い。"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "grade": 3,
+    "kanji": "究",
+    "readings": {
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "きわ-める"
+      ]
+    },
+    "origin": "穴と九を組み合わせた字。深く調べることを表す。",
+    "vocabulary": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "深く調べて真実を見つけること",
+        "example": "科学の研究をする。"
+      },
+      {
+        "word": "究める",
+        "reading": "きわめる",
+        "meaning": "極限まで追求すること",
+        "example": "技術を究める。"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "grade": 3,
+    "kanji": "急",
+    "readings": {
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "いそ-ぐ"
+      ]
+    },
+    "origin": "及と心を組み合わせた字。急ぐことを表す。",
+    "vocabulary": [
+      {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "速く行動すること",
+        "example": "遅刻しないように急ぐ。"
+      },
+      {
+        "word": "急行",
+        "reading": "きゅうこう",
+        "meaning": "速く走る電車",
+        "example": "急行電車に乗る。"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "grade": 3,
+    "kanji": "級",
+    "readings": {
+      "on": [
+        "キュウ"
+      ],
+      "kun": []
+    },
+    "origin": "糸と及を組み合わせた字。順番・クラスを表す。",
+    "vocabulary": [
+      {
+        "word": "学級",
+        "reading": "がっきゅう",
+        "meaning": "学校のクラス",
+        "example": "学級で話し合う。"
+      },
+      {
+        "word": "上級",
+        "reading": "じょうきゅう",
+        "meaning": "高いレベル・上のクラス",
+        "example": "上級生に相談する。"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "grade": 3,
+    "kanji": "宮",
+    "readings": {
+      "on": [
+        "キュウ",
+        "グウ",
+        "クウ"
+      ],
+      "kun": [
+        "みや"
+      ]
+    },
+    "origin": "宀と呂を組み合わせた字。部屋が続く大きな建物を表す。",
+    "vocabulary": [
+      {
+        "word": "宮殿",
+        "reading": "きゅうでん",
+        "meaning": "王や天皇が住む大きな建物",
+        "example": "宮殿を見学する。"
+      },
+      {
+        "word": "神宮",
+        "reading": "じんぐう",
+        "meaning": "神様をまつる大きな神社",
+        "example": "神宮に参拝する。"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "grade": 3,
+    "kanji": "球",
+    "readings": {
+      "on": [
+        "キュウ"
+      ],
+      "kun": [
+        "たま"
+      ]
+    },
+    "origin": "玉と求を組み合わせた字。丸い玉を表す。",
+    "vocabulary": [
+      {
+        "word": "球",
+        "reading": "たま",
+        "meaning": "丸い形のもの",
+        "example": "ボールは丸い球だ。"
+      },
+      {
+        "word": "地球",
+        "reading": "ちきゅう",
+        "meaning": "私たちが住んでいる星",
+        "example": "地球は青く美しい。"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "grade": 3,
+    "kanji": "去",
+    "readings": {
+      "on": [
+        "キョ",
+        "コ"
+      ],
+      "kun": [
+        "さ-る"
+      ]
+    },
+    "origin": "土と厶を組み合わせた字。立ち去ることを表す。",
+    "vocabulary": [
+      {
+        "word": "去る",
+        "reading": "さる",
+        "meaning": "その場を離れること",
+        "example": "春が去って夏が来た。"
+      },
+      {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning": "すでに過ぎた時間",
+        "example": "過去の出来事を振り返る。"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "grade": 3,
+    "kanji": "橋",
+    "readings": {
+      "on": [
+        "キョウ"
+      ],
+      "kun": [
+        "はし"
+      ]
+    },
+    "origin": "木と喬を組み合わせた字。高いところに渡した木を表す。",
+    "vocabulary": [
+      {
+        "word": "橋",
+        "reading": "はし",
+        "meaning": "川などを渡るための構造物",
+        "example": "川に橋を渡す。"
+      },
+      {
+        "word": "橋渡し",
+        "reading": "はしわたし",
+        "meaning": "仲をつなぐこと",
+        "example": "二人の橋渡しをする。"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "grade": 3,
+    "kanji": "業",
+    "readings": {
+      "on": [
+        "ギョウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "わざ"
+      ]
+    },
+    "origin": "楽器の台の形から、仕事・わざを表す字。",
+    "vocabulary": [
+      {
+        "word": "授業",
+        "reading": "じゅぎょう",
+        "meaning": "学校で先生が教えること",
+        "example": "算数の授業がある。"
+      },
+      {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "機械などで物を作る産業",
+        "example": "工業が発展した町。"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "grade": 3,
+    "kanji": "曲",
+    "readings": {
+      "on": [
+        "キョク"
+      ],
+      "kun": [
+        "ま-がる",
+        "ま-げる",
+        "きょく"
+      ]
+    },
+    "origin": "曲がった形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "曲がる",
+        "reading": "まがる",
+        "meaning": "まっすぐでなく折れること",
+        "example": "道が右に曲がる。"
+      },
+      {
+        "word": "曲",
+        "reading": "きょく",
+        "meaning": "音楽の一つのまとまり",
+        "example": "好きな曲を演奏する。"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "grade": 3,
+    "kanji": "局",
+    "readings": {
+      "on": [
+        "キョク"
+      ],
+      "kun": []
+    },
+    "origin": "尸と口と フ を組み合わせた字。区切られた場所を表す。",
+    "vocabulary": [
+      {
+        "word": "郵便局",
+        "reading": "ゆうびんきょく",
+        "meaning": "郵便を扱う場所",
+        "example": "郵便局で荷物を送る。"
+      },
+      {
+        "word": "放送局",
+        "reading": "ほうそうきょく",
+        "meaning": "テレビやラジオを放送する場所",
+        "example": "放送局で番組を作る。"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "grade": 3,
+    "kanji": "銀",
+    "readings": {
+      "on": [
+        "ギン"
+      ],
+      "kun": []
+    },
+    "origin": "金と艮を組み合わせた字。白く輝く金属を表す。",
+    "vocabulary": [
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "お金を預かる場所",
+        "example": "銀行でお金をおろす。"
+      },
+      {
+        "word": "銀色",
+        "reading": "ぎんいろ",
+        "meaning": "銀のような白っぽい光沢の色",
+        "example": "銀色の星が輝く。"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "grade": 3,
+    "kanji": "区",
+    "readings": {
+      "on": [
+        "ク"
+      ],
+      "kun": []
+    },
+    "origin": "物をしまう箱に区切りを入れた形。",
+    "vocabulary": [
+      {
+        "word": "区別",
+        "reading": "くべつ",
+        "meaning": "違いをはっきりさせること",
+        "example": "良いことと悪いことを区別する。"
+      },
+      {
+        "word": "地区",
+        "reading": "ちく",
+        "meaning": "区切られた地域",
+        "example": "この地区は静かだ。"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "grade": 3,
+    "kanji": "苦",
+    "readings": {
+      "on": [
+        "ク"
+      ],
+      "kun": [
+        "くる-しい",
+        "にが-い"
+      ]
+    },
+    "origin": "草と古を組み合わせた字。苦い草から苦しみを表す。",
+    "vocabulary": [
+      {
+        "word": "苦しい",
+        "reading": "くるしい",
+        "meaning": "つらくて大変な様子",
+        "example": "走り続けて苦しい。"
+      },
+      {
+        "word": "苦手",
+        "reading": "にがて",
+        "meaning": "うまくできないこと",
+        "example": "算数が苦手だ。"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "grade": 3,
+    "kanji": "具",
+    "readings": {
+      "on": [
+        "グ"
+      ],
+      "kun": [
+        "そな-える"
+      ]
+    },
+    "origin": "鼎（かなえ）と両手を組み合わせた字。道具を表す。",
+    "vocabulary": [
+      {
+        "word": "道具",
+        "reading": "どうぐ",
+        "meaning": "仕事や作業に使う物",
+        "example": "大工の道具を見せてもらう。"
+      },
+      {
+        "word": "具体的",
+        "reading": "ぐたいてき",
+        "meaning": "はっきりした形で示すこと",
+        "example": "具体的な例を挙げる。"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "grade": 3,
+    "kanji": "君",
+    "readings": {
+      "on": [
+        "クン"
+      ],
+      "kun": [
+        "きみ"
+      ]
+    },
+    "origin": "尹（手でむちを持つ形）と口を組み合わせた字。主君を表す。",
+    "vocabulary": [
+      {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "相手を親しみをこめて呼ぶ言葉",
+        "example": "君はどこに住んでいるの？"
+      },
+      {
+        "word": "諸君",
+        "reading": "しょくん",
+        "meaning": "みなさんに呼びかける言葉",
+        "example": "諸君、よく聞いてください。"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "grade": 3,
+    "kanji": "係",
+    "readings": {
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "かか-る",
+        "かかり"
+      ]
+    },
+    "origin": "人と系を組み合わせた字。つながることを表す。",
+    "vocabulary": [
+      {
+        "word": "係",
+        "reading": "かかり",
+        "meaning": "担当する仕事・その人",
+        "example": "今週は給食係だ。"
+      },
+      {
+        "word": "関係",
+        "reading": "かんけい",
+        "meaning": "つながりがあること",
+        "example": "友達との関係を大切にする。"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "grade": 3,
+    "kanji": "軽",
+    "readings": {
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "かる-い"
+      ]
+    },
+    "origin": "車と巠を組み合わせた字。重さが少ないことを表す。",
+    "vocabulary": [
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning": "重さが少ない・気楽な",
+        "example": "この荷物は軽い。"
+      },
+      {
+        "word": "軽食",
+        "reading": "けいしょく",
+        "meaning": "簡単な食事",
+        "example": "軽食を食べる。"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "grade": 3,
+    "kanji": "血",
+    "readings": {
+      "on": [
+        "ケツ"
+      ],
+      "kun": [
+        "ち"
+      ]
+    },
+    "origin": "皿の中に血が入っている形の字。",
+    "vocabulary": [
+      {
+        "word": "血",
+        "reading": "ち",
+        "meaning": "体の中を流れる赤い液体",
+        "example": "けがをして血が出た。"
+      },
+      {
+        "word": "血液",
+        "reading": "けつえき",
+        "meaning": "体の中を流れる液体",
+        "example": "血液を検査する。"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "grade": 3,
+    "kanji": "決",
+    "readings": {
+      "on": [
+        "ケツ"
+      ],
+      "kun": [
+        "き-める",
+        "き-まる"
+      ]
+    },
+    "origin": "水と夬を組み合わせた字。水が決壊することから決めることを表す。",
+    "vocabulary": [
+      {
+        "word": "決める",
+        "reading": "きめる",
+        "meaning": "はっきりと定めること",
+        "example": "目標を決める。"
+      },
+      {
+        "word": "決勝",
+        "reading": "けっしょう",
+        "meaning": "勝者を決める最後の試合",
+        "example": "決勝戦に進む。"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "grade": 3,
+    "kanji": "研",
+    "readings": {
+      "on": [
+        "ケン"
+      ],
+      "kun": [
+        "と-ぐ"
+      ]
+    },
+    "origin": "石と开を組み合わせた字。石で磨くことを表す。",
+    "vocabulary": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "深く調べること",
+        "example": "理科の研究発表をする。"
+      },
+      {
+        "word": "研ぐ",
+        "reading": "とぐ",
+        "meaning": "砥石でするどくすること",
+        "example": "包丁を研ぐ。"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "grade": 3,
+    "kanji": "県",
+    "readings": {
+      "on": [
+        "ケン"
+      ],
+      "kun": []
+    },
+    "origin": "首をさかさにした形と系を組み合わせた字。行政区画を表す。",
+    "vocabulary": [
+      {
+        "word": "県",
+        "reading": "けん",
+        "meaning": "都道府県の一つ",
+        "example": "神奈川県に住んでいる。"
+      },
+      {
+        "word": "県庁",
+        "reading": "けんちょう",
+        "meaning": "県の行政を行う建物",
+        "example": "県庁に手続きに行く。"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "grade": 3,
+    "kanji": "庫",
+    "readings": {
+      "on": [
+        "コ",
+        "ク"
+      ],
+      "kun": []
+    },
+    "origin": "広い建物の中に車がある形。物をしまう場所を表す。",
+    "vocabulary": [
+      {
+        "word": "倉庫",
+        "reading": "そうこ",
+        "meaning": "物をしまっておく建物",
+        "example": "倉庫に荷物をしまう。"
+      },
+      {
+        "word": "車庫",
+        "reading": "しゃこ",
+        "meaning": "車をしまう場所",
+        "example": "車を車庫に入れる。"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "grade": 3,
+    "kanji": "湖",
+    "readings": {
+      "on": [
+        "コ"
+      ],
+      "kun": [
+        "みずうみ"
+      ]
+    },
+    "origin": "水と胡を組み合わせた字。大きな水の固まりを表す。",
+    "vocabulary": [
+      {
+        "word": "湖",
+        "reading": "みずうみ",
+        "meaning": "陸地に囲まれた大きな水場",
+        "example": "湖でボートに乗る。"
+      },
+      {
+        "word": "湖畔",
+        "reading": "こはん",
+        "meaning": "湖のほとり",
+        "example": "湖畔を散歩する。"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "grade": 3,
+    "kanji": "向",
+    "readings": {
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "む-く",
+        "む-ける",
+        "む-かう"
+      ]
+    },
+    "origin": "家の北側にある窓の形から、向かう方向を表す。",
+    "vocabulary": [
+      {
+        "word": "向く",
+        "reading": "むく",
+        "meaning": "ある方向を正面にすること",
+        "example": "南を向いて立つ。"
+      },
+      {
+        "word": "方向",
+        "reading": "ほうこう",
+        "meaning": "進む方角",
+        "example": "方向を確かめる。"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "grade": 3,
+    "kanji": "幸",
+    "readings": {
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "しあわ-せ",
+        "さいわ-い"
+      ]
+    },
+    "origin": "手かせの形から、罰を免れた喜びを表す字。",
+    "vocabulary": [
+      {
+        "word": "幸せ",
+        "reading": "しあわせ",
+        "meaning": "満ち足りた気持ち",
+        "example": "家族と一緒にいて幸せだ。"
+      },
+      {
+        "word": "幸運",
+        "reading": "こううん",
+        "meaning": "運がよいこと",
+        "example": "幸運にも雨がやんだ。"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "grade": 3,
+    "kanji": "港",
+    "readings": {
+      "on": [
+        "コウ"
+      ],
+      "kun": [
+        "みなと"
+      ]
+    },
+    "origin": "水と巷を組み合わせた字。船がとまる場所を表す。",
+    "vocabulary": [
+      {
+        "word": "港",
+        "reading": "みなと",
+        "meaning": "船が停まる場所",
+        "example": "港に大きな船が来た。"
+      },
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning": "飛行機が離発着する場所",
+        "example": "空港まで送ってもらう。"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "grade": 3,
+    "kanji": "号",
+    "readings": {
+      "on": [
+        "ゴウ"
+      ],
+      "kun": []
+    },
+    "origin": "口から大きな声で号令する形。",
+    "vocabulary": [
+      {
+        "word": "号",
+        "reading": "ごう",
+        "meaning": "番号や名前につける言葉",
+        "example": "一号車に乗る。"
+      },
+      {
+        "word": "記号",
+        "reading": "きごう",
+        "meaning": "意味を持つしるし",
+        "example": "地図の記号を覚える。"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "grade": 3,
+    "kanji": "根",
+    "readings": {
+      "on": [
+        "コン"
+      ],
+      "kun": [
+        "ね"
+      ]
+    },
+    "origin": "木と艮を組み合わせた字。木の根を表す。",
+    "vocabulary": [
+      {
+        "word": "根",
+        "reading": "ね",
+        "meaning": "植物が土の中に伸ばす部分",
+        "example": "木の根が地面に張る。"
+      },
+      {
+        "word": "根気",
+        "reading": "こんき",
+        "meaning": "あきらめずに続ける力",
+        "example": "根気よく練習する。"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "grade": 3,
+    "kanji": "祭",
+    "readings": {
+      "on": [
+        "サイ"
+      ],
+      "kun": [
+        "まつ-る",
+        "まつり"
+      ]
+    },
+    "origin": "肉と手と示を組み合わせた字。神に肉を捧げる祭りを表す。",
+    "vocabulary": [
+      {
+        "word": "祭り",
+        "reading": "まつり",
+        "meaning": "神様をまつる行事",
+        "example": "夏祭りに行く。"
+      },
+      {
+        "word": "祭日",
+        "reading": "さいじつ",
+        "meaning": "祝日のこと",
+        "example": "祭日は学校が休みだ。"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "grade": 3,
+    "kanji": "皿",
+    "readings": {
+      "on": [
+        "ベイ"
+      ],
+      "kun": [
+        "さら"
+      ]
+    },
+    "origin": "皿の形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "皿",
+        "reading": "さら",
+        "meaning": "食べ物を乗せる平たい食器",
+        "example": "皿に料理を盛る。"
+      },
+      {
+        "word": "灰皿",
+        "reading": "はいざら",
+        "meaning": "たばこの灰を入れる容器",
+        "example": "灰皿に入れる。"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "grade": 3,
+    "kanji": "仕",
+    "readings": {
+      "on": [
+        "シ",
+        "ジ"
+      ],
+      "kun": [
+        "つか-える"
+      ]
+    },
+    "origin": "人と士を組み合わせた字。仕える・仕事を表す。",
+    "vocabulary": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "毎日行う作業や労働",
+        "example": "父は仕事が忙しい。"
+      },
+      {
+        "word": "仕える",
+        "reading": "つかえる",
+        "meaning": "主人や上の人のそばで働くこと",
+        "example": "国王に仕える騎士。"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "grade": 3,
+    "kanji": "死",
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "し-ぬ"
+      ]
+    },
+    "origin": "骨と人がくずれ落ちる形。生命が終わることを表す。",
+    "vocabulary": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "生命が終わること",
+        "example": "草花が枯れて死ぬ。"
+      },
+      {
+        "word": "死亡",
+        "reading": "しぼう",
+        "meaning": "人が亡くなること",
+        "example": "事故で死亡した人がいた。"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "grade": 3,
+    "kanji": "使",
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "つか-う"
+      ]
+    },
+    "origin": "人と吏を組み合わせた字。人を使うことを表す。",
+    "vocabulary": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "meaning": "目的のために利用すること",
+        "example": "鉛筆を使って書く。"
+      },
+      {
+        "word": "使い方",
+        "reading": "つかいかた",
+        "meaning": "使う方法",
+        "example": "辞書の使い方を学ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "grade": 3,
+    "kanji": "始",
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "はじ-める",
+        "はじ-まる"
+      ]
+    },
+    "origin": "女と台を組み合わせた字。物事の始まりを表す。",
+    "vocabulary": [
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "meaning": "新しく物事を起こすこと",
+        "example": "練習を始める。"
+      },
+      {
+        "word": "開始",
+        "reading": "かいし",
+        "meaning": "始まること",
+        "example": "試合開始の合図が鳴る。"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "grade": 3,
+    "kanji": "指",
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "ゆび",
+        "さ-す"
+      ]
+    },
+    "origin": "手と旨を組み合わせた字。指で指し示すことを表す。",
+    "vocabulary": [
+      {
+        "word": "指",
+        "reading": "ゆび",
+        "meaning": "手や足の先に分かれた部分",
+        "example": "指を怪我した。"
+      },
+      {
+        "word": "指示",
+        "reading": "しじ",
+        "meaning": "やり方を示すこと",
+        "example": "先生の指示に従う。"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "grade": 3,
+    "kanji": "歯",
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "は"
+      ]
+    },
+    "origin": "歯の形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "歯",
+        "reading": "は",
+        "meaning": "口の中で食べ物を噛む硬い部分",
+        "example": "歯を磨く。"
+      },
+      {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "歯を治す医者",
+        "example": "歯医者に行く。"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "grade": 3,
+    "kanji": "詩",
+    "readings": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "うた"
+      ]
+    },
+    "origin": "言と寺を組み合わせた字。心を言葉で表した文を表す。",
+    "vocabulary": [
+      {
+        "word": "詩",
+        "reading": "し",
+        "meaning": "感情や情景を表した短い文章",
+        "example": "詩を作って発表する。"
+      },
+      {
+        "word": "詩人",
+        "reading": "しじん",
+        "meaning": "詩を書く人",
+        "example": "有名な詩人の作品を読む。"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "grade": 3,
+    "kanji": "次",
+    "readings": {
+      "on": [
+        "ジ",
+        "シ"
+      ],
+      "kun": [
+        "つぎ",
+        "つ-ぐ"
+      ]
+    },
+    "origin": "氷と欠を組み合わせた字。順番の次を表す。",
+    "vocabulary": [
+      {
+        "word": "次",
+        "reading": "つぎ",
+        "meaning": "すぐ後に続くもの",
+        "example": "次の電車に乗る。"
+      },
+      {
+        "word": "次第",
+        "reading": "しだい",
+        "meaning": "順序・成り行き",
+        "example": "結果は次第に分かる。"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "grade": 3,
+    "kanji": "事",
+    "readings": {
+      "on": [
+        "ジ",
+        "ズ"
+      ],
+      "kun": [
+        "こと"
+      ]
+    },
+    "origin": "手でつまんで持つ形から、物事を表す字。",
+    "vocabulary": [
+      {
+        "word": "事",
+        "reading": "こと",
+        "meaning": "物事・出来事",
+        "example": "大切な事を忘れない。"
+      },
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "働くこと",
+        "example": "父の仕事は医者だ。"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "grade": 3,
+    "kanji": "持",
+    "readings": {
+      "on": [
+        "ジ"
+      ],
+      "kun": [
+        "も-つ"
+      ]
+    },
+    "origin": "手と寺を組み合わせた字。手で持つことを表す。",
+    "vocabulary": [
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "手で保持すること",
+        "example": "荷物を持つ。"
+      },
+      {
+        "word": "持続",
+        "reading": "じぞく",
+        "meaning": "ある状態が続くこと",
+        "example": "努力を持続する。"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "grade": 3,
+    "kanji": "式",
+    "readings": {
+      "on": [
+        "シキ"
+      ],
+      "kun": []
+    },
+    "origin": "工と弋を組み合わせた字。決まった形を表す。",
+    "vocabulary": [
+      {
+        "word": "式",
+        "reading": "しき",
+        "meaning": "決まった形式で行う行事",
+        "example": "入学式に出席する。"
+      },
+      {
+        "word": "公式",
+        "reading": "こうしき",
+        "meaning": "正式に決められた形や決まり",
+        "example": "公式の計算方法を使う。"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "grade": 3,
+    "kanji": "実",
+    "readings": {
+      "on": [
+        "ジツ"
+      ],
+      "kun": [
+        "み",
+        "みの-る"
+      ]
+    },
+    "origin": "宀と貫を組み合わせた字。実がなることを表す。",
+    "vocabulary": [
+      {
+        "word": "実",
+        "reading": "み",
+        "meaning": "植物の果実",
+        "example": "木に実がなった。"
+      },
+      {
+        "word": "実際",
+        "reading": "じっさい",
+        "meaning": "本当のこと・現実",
+        "example": "実際に試してみる。"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "grade": 3,
+    "kanji": "写",
+    "readings": {
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "うつ-す",
+        "うつ-る"
+      ]
+    },
+    "origin": "宀と与を組み合わせた字。そっくり写すことを表す。",
+    "vocabulary": [
+      {
+        "word": "写す",
+        "reading": "うつす",
+        "meaning": "そっくりに書き取ること",
+        "example": "黒板の字を写す。"
+      },
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": "カメラで撮った画像",
+        "example": "写真を撮る。"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "grade": 3,
+    "kanji": "者",
+    "readings": {
+      "on": [
+        "シャ"
+      ],
+      "kun": [
+        "もの"
+      ]
+    },
+    "origin": "老と日を組み合わせた字。人を表す。",
+    "vocabulary": [
+      {
+        "word": "記者",
+        "reading": "きしゃ",
+        "meaning": "ニュースを書いて報告する人",
+        "example": "記者が取材に来た。"
+      },
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "病気を治す人",
+        "example": "医者に薬を出してもらう。"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "grade": 3,
+    "kanji": "主",
+    "readings": {
+      "on": [
+        "シュ",
+        "ス"
+      ],
+      "kun": [
+        "ぬし",
+        "おも"
+      ]
+    },
+    "origin": "灯台の上に炎が上がっている形。中心になる人を表す。",
+    "vocabulary": [
+      {
+        "word": "主人",
+        "reading": "しゅじん",
+        "meaning": "一家の中心になる人",
+        "example": "主人が帰宅した。"
+      },
+      {
+        "word": "主役",
+        "reading": "しゅやく",
+        "meaning": "劇や映画の中心人物",
+        "example": "主役を演じる。"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "grade": 3,
+    "kanji": "守",
+    "readings": {
+      "on": [
+        "シュ",
+        "ス"
+      ],
+      "kun": [
+        "まも-る",
+        "もり"
+      ]
+    },
+    "origin": "宀と寸を組み合わせた字。家を守ることを表す。",
+    "vocabulary": [
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "meaning": "危険から保護すること",
+        "example": "約束を守る。"
+      },
+      {
+        "word": "守備",
+        "reading": "しゅび",
+        "meaning": "攻撃から防ぐこと",
+        "example": "守備を固める。"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "grade": 3,
+    "kanji": "取",
+    "readings": {
+      "on": [
+        "シュ"
+      ],
+      "kun": [
+        "と-る"
+      ]
+    },
+    "origin": "耳と手を組み合わせた字。手で取ることを表す。",
+    "vocabulary": [
+      {
+        "word": "取る",
+        "reading": "とる",
+        "meaning": "手でつかんで自分のものにすること",
+        "example": "本を棚から取る。"
+      },
+      {
+        "word": "取材",
+        "reading": "しゅざい",
+        "meaning": "情報を集めること",
+        "example": "新聞記者が取材する。"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "grade": 3,
+    "kanji": "酒",
+    "readings": {
+      "on": [
+        "シュ"
+      ],
+      "kun": [
+        "さけ",
+        "さか"
+      ]
+    },
+    "origin": "水と酉（酒つぼ）を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "酒",
+        "reading": "さけ",
+        "meaning": "アルコールを含む飲み物",
+        "example": "大人が酒を飲む。"
+      },
+      {
+        "word": "日本酒",
+        "reading": "にほんしゅ",
+        "meaning": "米から作った日本の酒",
+        "example": "日本酒を作る蔵を見学する。"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "grade": 3,
+    "kanji": "受",
+    "readings": {
+      "on": [
+        "ジュ"
+      ],
+      "kun": [
+        "う-ける",
+        "う-かる"
+      ]
+    },
+    "origin": "手と舟と手を組み合わせた字。渡されたものを受け取ることを表す。",
+    "vocabulary": [
+      {
+        "word": "受ける",
+        "reading": "うける",
+        "meaning": "差し出されたものを取ること",
+        "example": "ボールを受ける。"
+      },
+      {
+        "word": "受験",
+        "reading": "じゅけん",
+        "meaning": "試験を受けること",
+        "example": "中学受験をする。"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "grade": 3,
+    "kanji": "州",
+    "readings": {
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "す"
+      ]
+    },
+    "origin": "川の中の洲の形。陸地を表す。",
+    "vocabulary": [
+      {
+        "word": "九州",
+        "reading": "きゅうしゅう",
+        "meaning": "日本の南西部の地域",
+        "example": "九州に旅行する。"
+      },
+      {
+        "word": "本州",
+        "reading": "ほんしゅう",
+        "meaning": "日本の一番大きな島",
+        "example": "本州を横断する旅。"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "grade": 3,
+    "kanji": "拾",
+    "readings": {
+      "on": [
+        "シュウ",
+        "ジュウ"
+      ],
+      "kun": [
+        "ひろ-う"
+      ]
+    },
+    "origin": "手と合を組み合わせた字。拾い上げることを表す。",
+    "vocabulary": [
+      {
+        "word": "拾う",
+        "reading": "ひろう",
+        "meaning": "落ちているものを取り上げること",
+        "example": "ゴミを拾う。"
+      },
+      {
+        "word": "拾得",
+        "reading": "しゅうとく",
+        "meaning": "落とし物を拾うこと",
+        "example": "財布を拾得した。"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "grade": 3,
+    "kanji": "終",
+    "readings": {
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "お-わる",
+        "お-える"
+      ]
+    },
+    "origin": "糸と冬を組み合わせた字。糸の端・終わりを表す。",
+    "vocabulary": [
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "meaning": "物事が最後になること",
+        "example": "授業が終わる。"
+      },
+      {
+        "word": "終点",
+        "reading": "しゅうてん",
+        "meaning": "路線の最後の停車場所",
+        "example": "終点まで乗る。"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "grade": 3,
+    "kanji": "習",
+    "readings": {
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "なら-う"
+      ]
+    },
+    "origin": "羽と白を組み合わせた字。鳥が飛ぶ練習をする様子を表す。",
+    "vocabulary": [
+      {
+        "word": "習う",
+        "reading": "ならう",
+        "meaning": "教わって身につけること",
+        "example": "ピアノを習う。"
+      },
+      {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "繰り返し練習すること",
+        "example": "毎日練習する。"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "grade": 3,
+    "kanji": "集",
+    "readings": {
+      "on": [
+        "シュウ"
+      ],
+      "kun": [
+        "あつ-まる",
+        "あつ-める"
+      ]
+    },
+    "origin": "木の上に鳥が集まっている形。",
+    "vocabulary": [
+      {
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning": "一か所に多く来ること",
+        "example": "公園に子どもが集まる。"
+      },
+      {
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "一か所に集合させること",
+        "example": "切手を集める趣味がある。"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "grade": 3,
+    "kanji": "住",
+    "readings": {
+      "on": [
+        "ジュウ"
+      ],
+      "kun": [
+        "す-む",
+        "す-まう"
+      ]
+    },
+    "origin": "人と主を組み合わせた字。人が住む場所を表す。",
+    "vocabulary": [
+      {
+        "word": "住む",
+        "reading": "すむ",
+        "meaning": "ある場所に生活すること",
+        "example": "東京に住んでいる。"
+      },
+      {
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "meaning": "住んでいる場所の住所",
+        "example": "住所を書く。"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "grade": 3,
+    "kanji": "重",
+    "readings": {
+      "on": [
+        "ジュウ",
+        "チョウ"
+      ],
+      "kun": [
+        "おも-い",
+        "かさ-ねる"
+      ]
+    },
+    "origin": "人が荷を背負っている形。重さを表す。",
+    "vocabulary": [
+      {
+        "word": "重い",
+        "reading": "おもい",
+        "meaning": "重さが多い",
+        "example": "荷物が重い。"
+      },
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "体の重さ",
+        "example": "体重を測る。"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "grade": 3,
+    "kanji": "宿",
+    "readings": {
+      "on": [
+        "シュク"
+      ],
+      "kun": [
+        "やど",
+        "やど-る"
+      ]
+    },
+    "origin": "宀と百と人を組み合わせた字。泊まる場所を表す。",
+    "vocabulary": [
+      {
+        "word": "宿",
+        "reading": "やど",
+        "meaning": "泊まる場所・旅館",
+        "example": "山の宿に泊まる。"
+      },
+      {
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "meaning": "家でやる勉強の課題",
+        "example": "宿題を忘れた。"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "grade": 3,
+    "kanji": "所",
+    "readings": {
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "ところ"
+      ]
+    },
+    "origin": "戸と斤（おの）を組み合わせた字。場所を表す。",
+    "vocabulary": [
+      {
+        "word": "所",
+        "reading": "ところ",
+        "meaning": "場所・地点",
+        "example": "待ち合わせの所に来た。"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "物や人がある地点",
+        "example": "待ち合わせの場所を決める。"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "grade": 3,
+    "kanji": "暑",
+    "readings": {
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "あつ-い"
+      ]
+    },
+    "origin": "日と者を組み合わせた字。太陽が照りつける暑さを表す。",
+    "vocabulary": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "meaning": "気温が高くて熱い",
+        "example": "夏は暑い日が続く。"
+      },
+      {
+        "word": "暑さ",
+        "reading": "あつさ",
+        "meaning": "暑い度合い",
+        "example": "暑さに負けず運動する。"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "grade": 3,
+    "kanji": "助",
+    "readings": {
+      "on": [
+        "ジョ"
+      ],
+      "kun": [
+        "たす-ける",
+        "たす-かる"
+      ]
+    },
+    "origin": "且と力を組み合わせた字。力を貸してたすけることを表す。",
+    "vocabulary": [
+      {
+        "word": "助ける",
+        "reading": "たすける",
+        "meaning": "危険や困難から救うこと",
+        "example": "溺れた人を助ける。"
+      },
+      {
+        "word": "助言",
+        "reading": "じょげん",
+        "meaning": "アドバイスすること",
+        "example": "先生から助言をもらう。"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "grade": 3,
+    "kanji": "昭",
+    "readings": {
+      "on": [
+        "ショウ"
+      ],
+      "kun": []
+    },
+    "origin": "日と召を組み合わせた字。明るくはっきりしていることを表す。",
+    "vocabulary": [
+      {
+        "word": "昭和",
+        "reading": "しょうわ",
+        "meaning": "1926〜1989年の元号",
+        "example": "昭和の時代の話を聞く。"
+      },
+      {
+        "word": "昭",
+        "reading": "しょう",
+        "meaning": "明るいこと",
+        "example": "昭和生まれの祖父。"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "grade": 3,
+    "kanji": "消",
+    "readings": {
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "き-える",
+        "け-す"
+      ]
+    },
+    "origin": "水と肖を組み合わせた字。なくなることを表す。",
+    "vocabulary": [
+      {
+        "word": "消える",
+        "reading": "きえる",
+        "meaning": "見えなくなること",
+        "example": "雪が消える。"
+      },
+      {
+        "word": "消防",
+        "reading": "しょうぼう",
+        "meaning": "火事を消す仕事",
+        "example": "消防車がサイレンを鳴らす。"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "grade": 3,
+    "kanji": "商",
+    "readings": {
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "あきな-う"
+      ]
+    },
+    "origin": "高い建物で物を売る形。商売を表す。",
+    "vocabulary": [
+      {
+        "word": "商店",
+        "reading": "しょうてん",
+        "meaning": "物を売るお店",
+        "example": "商店街を歩く。"
+      },
+      {
+        "word": "商品",
+        "reading": "しょうひん",
+        "meaning": "売るための物",
+        "example": "新しい商品が並んだ。"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "grade": 3,
+    "kanji": "章",
+    "readings": {
+      "on": [
+        "ショウ"
+      ],
+      "kun": []
+    },
+    "origin": "音と十を組み合わせた字。文章の章を表す。",
+    "vocabulary": [
+      {
+        "word": "章",
+        "reading": "しょう",
+        "meaning": "文章の大きな区切り",
+        "example": "本の第一章を読む。"
+      },
+      {
+        "word": "文章",
+        "reading": "ぶんしょう",
+        "meaning": "まとまった文の集まり",
+        "example": "文章を書く練習をする。"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "grade": 3,
+    "kanji": "勝",
+    "readings": {
+      "on": [
+        "ショウ"
+      ],
+      "kun": [
+        "か-つ",
+        "まさ-る"
+      ]
+    },
+    "origin": "力と朕を組み合わせた字。力で勝つことを表す。",
+    "vocabulary": [
+      {
+        "word": "勝つ",
+        "reading": "かつ",
+        "meaning": "試合や競争に勝利すること",
+        "example": "試合に勝つ。"
+      },
+      {
+        "word": "勝負",
+        "reading": "しょうぶ",
+        "meaning": "どちらが強いか競うこと",
+        "example": "勝負を決める。"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "grade": 3,
+    "kanji": "乗",
+    "readings": {
+      "on": [
+        "ジョウ"
+      ],
+      "kun": [
+        "の-る",
+        "の-せる"
+      ]
+    },
+    "origin": "木の上に人が乗っている形。",
+    "vocabulary": [
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "乗り物に体を置くこと",
+        "example": "電車に乗る。"
+      },
+      {
+        "word": "乗客",
+        "reading": "じょうきゃく",
+        "meaning": "乗り物に乗っている人",
+        "example": "乗客が多い。"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "grade": 3,
+    "kanji": "植",
+    "readings": {
+      "on": [
+        "ショク"
+      ],
+      "kun": [
+        "う-える",
+        "う-わる"
+      ]
+    },
+    "origin": "木と直を組み合わせた字。木を植えることを表す。",
+    "vocabulary": [
+      {
+        "word": "植える",
+        "reading": "うえる",
+        "meaning": "植物を土に根付かせること",
+        "example": "花壇に花を植える。"
+      },
+      {
+        "word": "植物",
+        "reading": "しょくぶつ",
+        "meaning": "根・茎・葉のある生き物",
+        "example": "植物を観察する。"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "grade": 3,
+    "kanji": "申",
+    "readings": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "もう-す"
+      ]
+    },
+    "origin": "電が走る形から、稲妻を表した字。申し述べることを表す。",
+    "vocabulary": [
+      {
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "言うことの丁寧な言い方",
+        "example": "先生に申し訳ありません。"
+      },
+      {
+        "word": "申し込み",
+        "reading": "もうしこみ",
+        "meaning": "参加したいと知らせること",
+        "example": "大会に申し込む。"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "grade": 3,
+    "kanji": "身",
+    "readings": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "み"
+      ]
+    },
+    "origin": "身ごもった人の形から、体・自分を表す字。",
+    "vocabulary": [
+      {
+        "word": "身",
+        "reading": "み",
+        "meaning": "体・自分自身",
+        "example": "身を守る。"
+      },
+      {
+        "word": "身体",
+        "reading": "しんたい",
+        "meaning": "人の体",
+        "example": "身体検査を受ける。"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "grade": 3,
+    "kanji": "神",
+    "readings": {
+      "on": [
+        "シン",
+        "ジン"
+      ],
+      "kun": [
+        "かみ",
+        "かん"
+      ]
+    },
+    "origin": "示と申を組み合わせた字。神様を表す。",
+    "vocabulary": [
+      {
+        "word": "神様",
+        "reading": "かみさま",
+        "meaning": "信仰の対象となる存在",
+        "example": "神様にお願いする。"
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "神様をまつる場所",
+        "example": "神社にお参りする。"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "grade": 3,
+    "kanji": "真",
+    "readings": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ま",
+        "まこと"
+      ]
+    },
+    "origin": "かなえを真っ直ぐ上から見た形から、まっすぐ・本当を表す。",
+    "vocabulary": [
+      {
+        "word": "真剣",
+        "reading": "しんけん",
+        "meaning": "本気で取り組む様子",
+        "example": "真剣に練習する。"
+      },
+      {
+        "word": "真実",
+        "reading": "しんじつ",
+        "meaning": "本当のこと",
+        "example": "真実を話す。"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "grade": 3,
+    "kanji": "深",
+    "readings": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ふか-い",
+        "ふか-まる"
+      ]
+    },
+    "origin": "水と探の略を組み合わせた字。水が深いことを表す。",
+    "vocabulary": [
+      {
+        "word": "深い",
+        "reading": "ふかい",
+        "meaning": "底までの距離が長い",
+        "example": "この池は深い。"
+      },
+      {
+        "word": "深夜",
+        "reading": "しんや",
+        "meaning": "夜の深い時間帯",
+        "example": "深夜まで勉強する。"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "grade": 3,
+    "kanji": "進",
+    "readings": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "すす-む",
+        "すす-める"
+      ]
+    },
+    "origin": "辶と隹（鳥）を組み合わせた字。前に進むことを表す。",
+    "vocabulary": [
+      {
+        "word": "進む",
+        "reading": "すすむ",
+        "meaning": "前の方向に動くこと",
+        "example": "道を進む。"
+      },
+      {
+        "word": "前進",
+        "reading": "ぜんしん",
+        "meaning": "前に進むこと",
+        "example": "目標に向かって前進する。"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "grade": 3,
+    "kanji": "世",
+    "readings": {
+      "on": [
+        "セイ",
+        "セ"
+      ],
+      "kun": [
+        "よ"
+      ]
+    },
+    "origin": "三十年が一世代という意味から作られた字。",
+    "vocabulary": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "地球全体・すべての場所",
+        "example": "世界を旅する夢がある。"
+      },
+      {
+        "word": "世の中",
+        "reading": "よのなか",
+        "meaning": "社会・人々の生活の場",
+        "example": "世の中のことを学ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "grade": 3,
+    "kanji": "整",
+    "readings": {
+      "on": [
+        "セイ"
+      ],
+      "kun": [
+        "ととの-える",
+        "ととの-う"
+      ]
+    },
+    "origin": "束と攴と正を組み合わせた字。きちんと整えることを表す。",
+    "vocabulary": [
+      {
+        "word": "整える",
+        "reading": "ととのえる",
+        "meaning": "きちんとした状態にすること",
+        "example": "服装を整える。"
+      },
+      {
+        "word": "整理",
+        "reading": "せいり",
+        "meaning": "きちんとまとめること",
+        "example": "部屋を整理する。"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "grade": 3,
+    "kanji": "昔",
+    "readings": {
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "kun": [
+        "むかし"
+      ]
+    },
+    "origin": "水害と日を組み合わせた字。過ぎ去った日を表す。",
+    "vocabulary": [
+      {
+        "word": "昔",
+        "reading": "むかし",
+        "meaning": "ずっと前の時代",
+        "example": "昔の話を聞く。"
+      },
+      {
+        "word": "大昔",
+        "reading": "おおむかし",
+        "meaning": "非常に遠い昔",
+        "example": "大昔の人々の生活。"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "grade": 3,
+    "kanji": "全",
+    "readings": {
+      "on": [
+        "ゼン"
+      ],
+      "kun": [
+        "まった-く",
+        "すべ-て"
+      ]
+    },
+    "origin": "入と王を組み合わせた字。完全なことを表す。",
+    "vocabulary": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "meaning": "残らずすべて",
+        "example": "全部食べた。"
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "危険がないこと",
+        "example": "安全に気をつける。"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "grade": 3,
+    "kanji": "相",
+    "readings": {
+      "on": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kun": [
+        "あい",
+        "さが"
+      ]
+    },
+    "origin": "木と目を組み合わせた字。見て確かめることを表す。",
+    "vocabulary": [
+      {
+        "word": "相手",
+        "reading": "あいて",
+        "meaning": "一緒に何かをする人",
+        "example": "試合の相手は強い。"
+      },
+      {
+        "word": "相談",
+        "reading": "そうだん",
+        "meaning": "話し合って決めること",
+        "example": "先生に相談する。"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "grade": 3,
+    "kanji": "送",
+    "readings": {
+      "on": [
+        "ソウ"
+      ],
+      "kun": [
+        "おく-る"
+      ]
+    },
+    "origin": "辶と关を組み合わせた字。届けるために運ぶことを表す。",
+    "vocabulary": [
+      {
+        "word": "送る",
+        "reading": "おくる",
+        "meaning": "目的地に届けること",
+        "example": "荷物を送る。"
+      },
+      {
+        "word": "放送",
+        "reading": "ほうそう",
+        "meaning": "電波で音声や映像を送ること",
+        "example": "テレビ放送を見る。"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "grade": 3,
+    "kanji": "想",
+    "readings": {
+      "on": [
+        "ソウ",
+        "ソ"
+      ],
+      "kun": [
+        "おも-う"
+      ]
+    },
+    "origin": "相と心を組み合わせた字。心で思い浮かべることを表す。",
+    "vocabulary": [
+      {
+        "word": "想像",
+        "reading": "そうぞう",
+        "meaning": "心の中で思い描くこと",
+        "example": "未来を想像する。"
+      },
+      {
+        "word": "感想",
+        "reading": "かんそう",
+        "meaning": "感じたことや思ったこと",
+        "example": "本の感想を書く。"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "grade": 3,
+    "kanji": "息",
+    "readings": {
+      "on": [
+        "ソク"
+      ],
+      "kun": [
+        "いき"
+      ]
+    },
+    "origin": "自と心を組み合わせた字。鼻から吐く息を表す。",
+    "vocabulary": [
+      {
+        "word": "息",
+        "reading": "いき",
+        "meaning": "呼吸で出入りする空気",
+        "example": "深呼吸で息を吸う。"
+      },
+      {
+        "word": "休息",
+        "reading": "きゅうそく",
+        "meaning": "疲れを取るために休むこと",
+        "example": "休息を取る。"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "grade": 3,
+    "kanji": "速",
+    "readings": {
+      "on": [
+        "ソク"
+      ],
+      "kun": [
+        "はや-い",
+        "はや-める",
+        "すみ-やか"
+      ]
+    },
+    "origin": "辶と束を組み合わせた字。速く移動することを表す。",
+    "vocabulary": [
+      {
+        "word": "速い",
+        "reading": "はやい",
+        "meaning": "動きが素早い",
+        "example": "チーターは速い動物だ。"
+      },
+      {
+        "word": "速度",
+        "reading": "そくど",
+        "meaning": "速さの度合い",
+        "example": "速度を落として運転する。"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "grade": 3,
+    "kanji": "族",
+    "readings": {
+      "on": [
+        "ゾク"
+      ],
+      "kun": []
+    },
+    "origin": "方と矢と人を組み合わせた字。同じ旗のもとに集まる集団を表す。",
+    "vocabulary": [
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "一緒に暮らす親しい人たち",
+        "example": "家族と旅行に行く。"
+      },
+      {
+        "word": "民族",
+        "reading": "みんぞく",
+        "meaning": "同じ文化・言語を持つ人々の集まり",
+        "example": "様々な民族が共存する。"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "grade": 3,
+    "kanji": "他",
+    "readings": {
+      "on": [
+        "タ"
+      ],
+      "kun": [
+        "ほか"
+      ]
+    },
+    "origin": "人と也を組み合わせた字。別の・他の人を表す。",
+    "vocabulary": [
+      {
+        "word": "他",
+        "reading": "ほか",
+        "meaning": "別のもの・それ以外",
+        "example": "他に方法はないか。"
+      },
+      {
+        "word": "他人",
+        "reading": "たにん",
+        "meaning": "自分以外の人",
+        "example": "他人に迷惑をかけない。"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "grade": 3,
+    "kanji": "打",
+    "readings": {
+      "on": [
+        "ダ"
+      ],
+      "kun": [
+        "う-つ"
+      ]
+    },
+    "origin": "手と丁を組み合わせた字。打つことを表す。",
+    "vocabulary": [
+      {
+        "word": "打つ",
+        "reading": "うつ",
+        "meaning": "たたくこと",
+        "example": "ボールを打つ。"
+      },
+      {
+        "word": "打者",
+        "reading": "だしゃ",
+        "meaning": "バットで打つ選手",
+        "example": "打者がホームランを打った。"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "grade": 3,
+    "kanji": "対",
+    "readings": {
+      "on": [
+        "タイ",
+        "ツイ"
+      ],
+      "kun": [
+        "むか-う"
+      ]
+    },
+    "origin": "業と寸を組み合わせた字。向かい合うことを表す。",
+    "vocabulary": [
+      {
+        "word": "対話",
+        "reading": "たいわ",
+        "meaning": "向かい合って話すこと",
+        "example": "先生と対話する。"
+      },
+      {
+        "word": "対戦",
+        "reading": "たいせん",
+        "meaning": "向き合って戦うこと",
+        "example": "強いチームと対戦する。"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "grade": 3,
+    "kanji": "待",
+    "readings": {
+      "on": [
+        "タイ"
+      ],
+      "kun": [
+        "ま-つ"
+      ]
+    },
+    "origin": "彳と寺を組み合わせた字。立ち止まって待つことを表す。",
+    "vocabulary": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "来るまでその場にいること",
+        "example": "友達を待つ。"
+      },
+      {
+        "word": "期待",
+        "reading": "きたい",
+        "meaning": "よいことを望んで待つこと",
+        "example": "結果に期待する。"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "grade": 3,
+    "kanji": "代",
+    "readings": {
+      "on": [
+        "ダイ",
+        "タイ"
+      ],
+      "kun": [
+        "か-わる",
+        "か-える",
+        "よ",
+        "しろ"
+      ]
+    },
+    "origin": "人と戈を組み合わせた字。代わりを表す。",
+    "vocabulary": [
+      {
+        "word": "代わり",
+        "reading": "かわり",
+        "meaning": "別のものが代わること",
+        "example": "お父さんの代わりに出席する。"
+      },
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "ある一定の時期",
+        "example": "江戸時代を学ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "grade": 3,
+    "kanji": "第",
+    "readings": {
+      "on": [
+        "ダイ"
+      ],
+      "kun": []
+    },
+    "origin": "竹と弟を組み合わせた字。順番を表す。",
+    "vocabulary": [
+      {
+        "word": "第一",
+        "reading": "だいいち",
+        "meaning": "一番目",
+        "example": "第一問を解く。"
+      },
+      {
+        "word": "次第",
+        "reading": "しだい",
+        "meaning": "順序・それによって決まること",
+        "example": "努力次第で上達する。"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "grade": 3,
+    "kanji": "題",
+    "readings": {
+      "on": [
+        "ダイ"
+      ],
+      "kun": []
+    },
+    "origin": "是と頁を組み合わせた字。題目・表題を表す。",
+    "vocabulary": [
+      {
+        "word": "題名",
+        "reading": "だいめい",
+        "meaning": "作品や文章のタイトル",
+        "example": "本の題名を書く。"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "解かなければならない課題",
+        "example": "算数の問題を解く。"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "grade": 3,
+    "kanji": "炭",
+    "readings": {
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "すみ"
+      ]
+    },
+    "origin": "山と火と灰を組み合わせた字。木を焼いた炭を表す。",
+    "vocabulary": [
+      {
+        "word": "炭",
+        "reading": "すみ",
+        "meaning": "木を蒸し焼きにしたもの",
+        "example": "炭で焼き肉をする。"
+      },
+      {
+        "word": "石炭",
+        "reading": "せきたん",
+        "meaning": "地中にある黒い燃料",
+        "example": "昔は石炭を使って暖をとった。"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "grade": 3,
+    "kanji": "短",
+    "readings": {
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "みじか-い"
+      ]
+    },
+    "origin": "矢と豆を組み合わせた字。矢の長さを測ることから短いを表す。",
+    "vocabulary": [
+      {
+        "word": "短い",
+        "reading": "みじかい",
+        "meaning": "長さが少ない",
+        "example": "この道は短い。"
+      },
+      {
+        "word": "短所",
+        "reading": "たんしょ",
+        "meaning": "不得意なところ",
+        "example": "自分の短所を改める。"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "grade": 3,
+    "kanji": "談",
+    "readings": {
+      "on": [
+        "ダン"
+      ],
+      "kun": []
+    },
+    "origin": "言と炎を組み合わせた字。話し合うことを表す。",
+    "vocabulary": [
+      {
+        "word": "相談",
+        "reading": "そうだん",
+        "meaning": "話し合って決めること",
+        "example": "友達に相談する。"
+      },
+      {
+        "word": "談話",
+        "reading": "だんわ",
+        "meaning": "話し合い・会話",
+        "example": "談話室で話す。"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "grade": 3,
+    "kanji": "着",
+    "readings": {
+      "on": [
+        "チャク"
+      ],
+      "kun": [
+        "き-る",
+        "つ-く",
+        "き-せる"
+      ]
+    },
+    "origin": "羊と目と大を組み合わせた字。身につけることを表す。",
+    "vocabulary": [
+      {
+        "word": "着る",
+        "reading": "きる",
+        "meaning": "衣服を体に付けること",
+        "example": "制服を着る。"
+      },
+      {
+        "word": "着く",
+        "reading": "つく",
+        "meaning": "目的地に到達すること",
+        "example": "学校に着く。"
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "grade": 3,
+    "kanji": "注",
+    "readings": {
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "そそ-ぐ",
+        "ちゅう"
+      ]
+    },
+    "origin": "水と主を組み合わせた字。水を注ぐことを表す。",
+    "vocabulary": [
+      {
+        "word": "注ぐ",
+        "reading": "そそぐ",
+        "meaning": "液体を流し込むこと",
+        "example": "コップに水を注ぐ。"
+      },
+      {
+        "word": "注意",
+        "reading": "ちゅうい",
+        "meaning": "気をつけること",
+        "example": "車に注意する。"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "grade": 3,
+    "kanji": "柱",
+    "readings": {
+      "on": [
+        "チュウ"
+      ],
+      "kun": [
+        "はしら"
+      ]
+    },
+    "origin": "木と主を組み合わせた字。建物を支える木の柱を表す。",
+    "vocabulary": [
+      {
+        "word": "柱",
+        "reading": "はしら",
+        "meaning": "建物を支える縦の棒",
+        "example": "神社の柱は太い。"
+      },
+      {
+        "word": "電柱",
+        "reading": "でんちゅう",
+        "meaning": "電線を支える柱",
+        "example": "電柱の間に電線が張られている。"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "grade": 3,
+    "kanji": "丁",
+    "readings": {
+      "on": [
+        "チョウ",
+        "テイ"
+      ],
+      "kun": []
+    },
+    "origin": "くぎを打ちつけた形。丁寧なことを表す。",
+    "vocabulary": [
+      {
+        "word": "丁寧",
+        "reading": "ていねい",
+        "meaning": "礼儀正しく注意深い様子",
+        "example": "丁寧に挨拶する。"
+      },
+      {
+        "word": "一丁目",
+        "reading": "いっちょうめ",
+        "meaning": "町の区画の番号",
+        "example": "一丁目に住んでいる。"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "grade": 3,
+    "kanji": "帳",
+    "readings": {
+      "on": [
+        "チョウ"
+      ],
+      "kun": []
+    },
+    "origin": "巾と長を組み合わせた字。長い布・ノートを表す。",
+    "vocabulary": [
+      {
+        "word": "帳面",
+        "reading": "ちょうめん",
+        "meaning": "ノートのこと",
+        "example": "帳面に記録する。"
+      },
+      {
+        "word": "手帳",
+        "reading": "てちょう",
+        "meaning": "持ち歩くメモ帳",
+        "example": "手帳に予定を書く。"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "grade": 3,
+    "kanji": "調",
+    "readings": {
+      "on": [
+        "チョウ"
+      ],
+      "kun": [
+        "しら-べる",
+        "ととの-える"
+      ]
+    },
+    "origin": "言と周を組み合わせた字。調べることを表す。",
+    "vocabulary": [
+      {
+        "word": "調べる",
+        "reading": "しらべる",
+        "meaning": "詳しく確かめること",
+        "example": "図書館で調べる。"
+      },
+      {
+        "word": "調子",
+        "reading": "ちょうし",
+        "meaning": "体や物事の具合",
+        "example": "今日は調子がいい。"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "grade": 3,
+    "kanji": "追",
+    "readings": {
+      "on": [
+        "ツイ"
+      ],
+      "kun": [
+        "お-う"
+      ]
+    },
+    "origin": "辶と自を組み合わせた字。後を追うことを表す。",
+    "vocabulary": [
+      {
+        "word": "追う",
+        "reading": "おう",
+        "meaning": "後ろから近づこうとすること",
+        "example": "犯人を追う。"
+      },
+      {
+        "word": "追加",
+        "reading": "ついか",
+        "meaning": "さらに加えること",
+        "example": "注文を追加する。"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "grade": 3,
+    "kanji": "定",
+    "readings": {
+      "on": [
+        "テイ",
+        "ジョウ"
+      ],
+      "kun": [
+        "さだ-める",
+        "さだ-まる"
+      ]
+    },
+    "origin": "宀と正を組み合わせた字。決めて定めることを表す。",
+    "vocabulary": [
+      {
+        "word": "決定",
+        "reading": "けってい",
+        "meaning": "はっきりと決めること",
+        "example": "目標を決定する。"
+      },
+      {
+        "word": "定規",
+        "reading": "じょうぎ",
+        "meaning": "直線を引く道具",
+        "example": "定規で線を引く。"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "grade": 3,
+    "kanji": "庭",
+    "readings": {
+      "on": [
+        "テイ"
+      ],
+      "kun": [
+        "にわ"
+      ]
+    },
+    "origin": "广と廷を組み合わせた字。建物の前の庭を表す。",
+    "vocabulary": [
+      {
+        "word": "庭",
+        "reading": "にわ",
+        "meaning": "家の外の土のある場所",
+        "example": "庭で花を育てる。"
+      },
+      {
+        "word": "庭園",
+        "reading": "ていえん",
+        "meaning": "美しく整えられた庭",
+        "example": "日本庭園を見学する。"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "grade": 3,
+    "kanji": "笛",
+    "readings": {
+      "on": [
+        "テキ"
+      ],
+      "kun": [
+        "ふえ"
+      ]
+    },
+    "origin": "竹と由を組み合わせた字。竹で作った楽器を表す。",
+    "vocabulary": [
+      {
+        "word": "笛",
+        "reading": "ふえ",
+        "meaning": "息で音を出す楽器",
+        "example": "笛を吹く。"
+      },
+      {
+        "word": "汽笛",
+        "reading": "きてき",
+        "meaning": "蒸気で鳴らす笛",
+        "example": "船が汽笛を鳴らした。"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "grade": 3,
+    "kanji": "鉄",
+    "readings": {
+      "on": [
+        "テツ"
+      ],
+      "kun": [
+        "くろがね"
+      ]
+    },
+    "origin": "金と失を組み合わせた字。鉄という金属を表す。",
+    "vocabulary": [
+      {
+        "word": "鉄",
+        "reading": "てつ",
+        "meaning": "硬くて重い金属",
+        "example": "鉄でできた橋。"
+      },
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "地下を走る電車",
+        "example": "地下鉄に乗る。"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "grade": 3,
+    "kanji": "転",
+    "readings": {
+      "on": [
+        "テン"
+      ],
+      "kun": [
+        "ころ-がる",
+        "ころ-がす",
+        "まわ-る"
+      ]
+    },
+    "origin": "車と専を組み合わせた字。車輪が回ることを表す。",
+    "vocabulary": [
+      {
+        "word": "転がる",
+        "reading": "ころがる",
+        "meaning": "回転しながら移動すること",
+        "example": "ボールが転がる。"
+      },
+      {
+        "word": "回転",
+        "reading": "かいてん",
+        "meaning": "くるくる回ること",
+        "example": "コマが回転する。"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "grade": 3,
+    "kanji": "都",
+    "readings": {
+      "on": [
+        "ト",
+        "ツ"
+      ],
+      "kun": [
+        "みやこ"
+      ]
+    },
+    "origin": "者と邑を組み合わせた字。人が集まる都を表す。",
+    "vocabulary": [
+      {
+        "word": "都市",
+        "reading": "としかい",
+        "meaning": "人が多く集まって住む場所",
+        "example": "大都市に住む。"
+      },
+      {
+        "word": "東京都",
+        "reading": "とうきょうと",
+        "meaning": "日本の首都",
+        "example": "東京都に修学旅行に行く。"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "grade": 3,
+    "kanji": "投",
+    "readings": {
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "な-げる"
+      ]
+    },
+    "origin": "手と殳を組み合わせた字。手で投げることを表す。",
+    "vocabulary": [
+      {
+        "word": "投げる",
+        "reading": "なげる",
+        "meaning": "手から放して飛ばすこと",
+        "example": "ボールを投げる。"
+      },
+      {
+        "word": "投票",
+        "reading": "とうひょう",
+        "meaning": "票を入れて選ぶこと",
+        "example": "選挙で投票する。"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "grade": 3,
+    "kanji": "豆",
+    "readings": {
+      "on": [
+        "トウ",
+        "ズ"
+      ],
+      "kun": [
+        "まめ"
+      ]
+    },
+    "origin": "豆の形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "豆",
+        "reading": "まめ",
+        "meaning": "豆科の植物の種",
+        "example": "大豆から豆腐を作る。"
+      },
+      {
+        "word": "豆腐",
+        "reading": "とうふ",
+        "meaning": "大豆から作る食品",
+        "example": "豆腐の味噌汁を作る。"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "grade": 3,
+    "kanji": "島",
+    "readings": {
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "しま"
+      ]
+    },
+    "origin": "鳥と山を組み合わせた字。海の中の山・島を表す。",
+    "vocabulary": [
+      {
+        "word": "島",
+        "reading": "しま",
+        "meaning": "海に囲まれた陸地",
+        "example": "島に渡る。"
+      },
+      {
+        "word": "半島",
+        "reading": "はんとう",
+        "meaning": "三方を海に囲まれた陸地",
+        "example": "伊豆半島に行く。"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "grade": 3,
+    "kanji": "湯",
+    "readings": {
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ゆ"
+      ]
+    },
+    "origin": "水と昜を組み合わせた字。熱い水を表す。",
+    "vocabulary": [
+      {
+        "word": "湯",
+        "reading": "ゆ",
+        "meaning": "熱くした水",
+        "example": "お湯を沸かす。"
+      },
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "meaning": "地中から出る温かい水",
+        "example": "温泉に入る。"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "grade": 3,
+    "kanji": "登",
+    "readings": {
+      "on": [
+        "トウ",
+        "ト"
+      ],
+      "kun": [
+        "のぼ-る"
+      ]
+    },
+    "origin": "癶と豆を組み合わせた字。高いところに登ることを表す。",
+    "vocabulary": [
+      {
+        "word": "登る",
+        "reading": "のぼる",
+        "meaning": "高いところへ上がること",
+        "example": "山を登る。"
+      },
+      {
+        "word": "登山",
+        "reading": "とざん",
+        "meaning": "山に登ること",
+        "example": "登山の準備をする。"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "grade": 3,
+    "kanji": "等",
+    "readings": {
+      "on": [
+        "トウ"
+      ],
+      "kun": [
+        "ひと-しい",
+        "など"
+      ]
+    },
+    "origin": "竹と寺を組み合わせた字。同じ長さにそろえることを表す。",
+    "vocabulary": [
+      {
+        "word": "等しい",
+        "reading": "ひとしい",
+        "meaning": "同じ値や大きさ",
+        "example": "二つの量が等しい。"
+      },
+      {
+        "word": "平等",
+        "reading": "びょうどう",
+        "meaning": "みんなが同じ扱いであること",
+        "example": "平等に分ける。"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "grade": 3,
+    "kanji": "動",
+    "readings": {
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "うご-く",
+        "うご-かす"
+      ]
+    },
+    "origin": "重と力を組み合わせた字。重いものを力で動かすことを表す。",
+    "vocabulary": [
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "位置や形が変わること",
+        "example": "機械が動く。"
+      },
+      {
+        "word": "運動",
+        "reading": "うんどう",
+        "meaning": "体を動かすこと",
+        "example": "毎日運動する。"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "grade": 3,
+    "kanji": "童",
+    "readings": {
+      "on": [
+        "ドウ"
+      ],
+      "kun": [
+        "わらべ"
+      ]
+    },
+    "origin": "里と目と辛（入れ墨の道具）を組み合わせた字。子どもを表す。",
+    "vocabulary": [
+      {
+        "word": "童謡",
+        "reading": "どうよう",
+        "meaning": "子どものための歌",
+        "example": "童謡を歌う。"
+      },
+      {
+        "word": "児童",
+        "reading": "じどう",
+        "meaning": "小学生くらいの子ども",
+        "example": "児童が遊んでいる。"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "grade": 3,
+    "kanji": "波",
+    "readings": {
+      "on": [
+        "ハ"
+      ],
+      "kun": [
+        "なみ"
+      ]
+    },
+    "origin": "水と皮を組み合わせた字。水の波を表す。",
+    "vocabulary": [
+      {
+        "word": "波",
+        "reading": "なみ",
+        "meaning": "海や湖の水面の上下する動き",
+        "example": "大きな波が来た。"
+      },
+      {
+        "word": "電波",
+        "reading": "でんぱ",
+        "meaning": "電気信号の波",
+        "example": "電波が届かない場所。"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "grade": 3,
+    "kanji": "農",
+    "readings": {
+      "on": [
+        "ノウ"
+      ],
+      "kun": []
+    },
+    "origin": "田を耕す形。農業を表す字。",
+    "vocabulary": [
+      {
+        "word": "農業",
+        "reading": "のうぎょう",
+        "meaning": "田畑を耕して作物を作る仕事",
+        "example": "農業を体験する。"
+      },
+      {
+        "word": "農家",
+        "reading": "のうか",
+        "meaning": "農業を営む家",
+        "example": "農家の方が野菜を育てた。"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "grade": 3,
+    "kanji": "配",
+    "readings": {
+      "on": [
+        "ハイ"
+      ],
+      "kun": [
+        "くば-る"
+      ]
+    },
+    "origin": "酉（さけつぼ）と人を組み合わせた字。分け配ることを表す。",
+    "vocabulary": [
+      {
+        "word": "配る",
+        "reading": "くばる",
+        "meaning": "それぞれに分け与えること",
+        "example": "プリントを配る。"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "meaning": "気がかりで不安に思うこと",
+        "example": "家族のことを心配する。"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "grade": 3,
+    "kanji": "倍",
+    "readings": {
+      "on": [
+        "バイ"
+      ],
+      "kun": []
+    },
+    "origin": "人と咅を組み合わせた字。同じものを加えることを表す。",
+    "vocabulary": [
+      {
+        "word": "二倍",
+        "reading": "にばい",
+        "meaning": "元の数の二つ分",
+        "example": "二倍の速さで走る。"
+      },
+      {
+        "word": "倍増",
+        "reading": "ばいぞう",
+        "meaning": "二倍になること",
+        "example": "売上が倍増した。"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "grade": 3,
+    "kanji": "畑",
+    "readings": {
+      "on": [],
+      "kun": [
+        "はたけ",
+        "はた"
+      ]
+    },
+    "origin": "火と田を組み合わせた日本独自の字。焼き払った田を表す。",
+    "vocabulary": [
+      {
+        "word": "畑",
+        "reading": "はたけ",
+        "meaning": "野菜を育てる土地",
+        "example": "畑で野菜を育てる。"
+      },
+      {
+        "word": "田畑",
+        "reading": "たはた",
+        "meaning": "田んぼと畑",
+        "example": "田畑を耕す。"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "grade": 3,
+    "kanji": "発",
+    "readings": {
+      "on": [
+        "ハツ",
+        "ホツ"
+      ],
+      "kun": [
+        "た-つ",
+        "はな-つ"
+      ]
+    },
+    "origin": "弓矢を放つ形から、飛び出すことを表す。",
+    "vocabulary": [
+      {
+        "word": "発表",
+        "reading": "はっぴょう",
+        "meaning": "みんなに知らせること",
+        "example": "研究を発表する。"
+      },
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "meaning": "旅に出ること",
+        "example": "旅行に出発する。"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "grade": 3,
+    "kanji": "反",
+    "readings": {
+      "on": [
+        "ハン",
+        "ホン",
+        "タン"
+      ],
+      "kun": [
+        "そ-る",
+        "かえ-す"
+      ]
+    },
+    "origin": "厂と手を組み合わせた字。ひっくり返すことを表す。",
+    "vocabulary": [
+      {
+        "word": "反対",
+        "reading": "はんたい",
+        "meaning": "逆のこと・逆の意見",
+        "example": "反対方向に進む。"
+      },
+      {
+        "word": "反省",
+        "reading": "はんせい",
+        "meaning": "自分の行動を振り返ること",
+        "example": "失敗を反省する。"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "grade": 3,
+    "kanji": "坂",
+    "readings": {
+      "on": [
+        "ハン"
+      ],
+      "kun": [
+        "さか"
+      ]
+    },
+    "origin": "土と反を組み合わせた字。傾いた道を表す。",
+    "vocabulary": [
+      {
+        "word": "坂",
+        "reading": "さか",
+        "meaning": "傾斜のある道",
+        "example": "急な坂を登る。"
+      },
+      {
+        "word": "坂道",
+        "reading": "さかみち",
+        "meaning": "坂になっている道",
+        "example": "坂道を自転車で下る。"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "grade": 3,
+    "kanji": "板",
+    "readings": {
+      "on": [
+        "ハン",
+        "バン"
+      ],
+      "kun": [
+        "いた"
+      ]
+    },
+    "origin": "木と反を組み合わせた字。薄く平らな木を表す。",
+    "vocabulary": [
+      {
+        "word": "板",
+        "reading": "いた",
+        "meaning": "薄く平らな木や金属",
+        "example": "木の板で棚を作る。"
+      },
+      {
+        "word": "黒板",
+        "reading": "こくばん",
+        "meaning": "チョークで書く黒い板",
+        "example": "先生が黒板に字を書く。"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "grade": 3,
+    "kanji": "皮",
+    "readings": {
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "かわ"
+      ]
+    },
+    "origin": "手で動物の皮をはぐ形。表面をおおうものを表す。",
+    "vocabulary": [
+      {
+        "word": "皮",
+        "reading": "かわ",
+        "meaning": "動物の体の表面をおおうもの",
+        "example": "りんごの皮をむく。"
+      },
+      {
+        "word": "皮膚",
+        "reading": "ひふ",
+        "meaning": "体の表面をおおっている組織",
+        "example": "皮膚が乾燥した。"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "grade": 3,
+    "kanji": "悲",
+    "readings": {
+      "on": [
+        "ヒ"
+      ],
+      "kun": [
+        "かな-しい",
+        "かな-しむ"
+      ]
+    },
+    "origin": "非と心を組み合わせた字。悲しい気持ちを表す。",
+    "vocabulary": [
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning": "つらくて泣きたい気持ち",
+        "example": "友達と別れて悲しい。"
+      },
+      {
+        "word": "悲劇",
+        "reading": "ひげき",
+        "meaning": "悲しい結末の劇や出来事",
+        "example": "悲劇の主人公。"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "grade": 3,
+    "kanji": "美",
+    "readings": {
+      "on": [
+        "ビ"
+      ],
+      "kun": [
+        "うつく-しい"
+      ]
+    },
+    "origin": "羊と大を組み合わせた字。大きな羊は美しいとされた。",
+    "vocabulary": [
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "meaning": "見て素晴らしいと感じる様子",
+        "example": "花が美しく咲いた。"
+      },
+      {
+        "word": "美術",
+        "reading": "びじゅつ",
+        "meaning": "絵や彫刻などの芸術",
+        "example": "美術の授業で絵を描く。"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "grade": 3,
+    "kanji": "鼻",
+    "readings": {
+      "on": [
+        "ビ"
+      ],
+      "kun": [
+        "はな"
+      ]
+    },
+    "origin": "鼻の形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "鼻",
+        "reading": "はな",
+        "meaning": "顔の真ん中にある呼吸器官",
+        "example": "鼻をかむ。"
+      },
+      {
+        "word": "鼻水",
+        "reading": "はなみず",
+        "meaning": "鼻から出る液体",
+        "example": "風邪で鼻水が出る。"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "grade": 3,
+    "kanji": "筆",
+    "readings": {
+      "on": [
+        "ヒツ"
+      ],
+      "kun": [
+        "ふで"
+      ]
+    },
+    "origin": "竹と聿（筆の持ち方）を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "筆",
+        "reading": "ふで",
+        "meaning": "毛で作った書道の道具",
+        "example": "筆で字を書く。"
+      },
+      {
+        "word": "鉛筆",
+        "reading": "えんぴつ",
+        "meaning": "芯を木で包んだ筆記用具",
+        "example": "鉛筆で絵を描く。"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "grade": 3,
+    "kanji": "氷",
+    "readings": {
+      "on": [
+        "ヒョウ"
+      ],
+      "kun": [
+        "こおり",
+        "ひ"
+      ]
+    },
+    "origin": "水が凍った形を表す字。",
+    "vocabulary": [
+      {
+        "word": "氷",
+        "reading": "こおり",
+        "meaning": "水が凍って固まったもの",
+        "example": "氷がとけて水になった。"
+      },
+      {
+        "word": "氷山",
+        "reading": "ひょうざん",
+        "meaning": "海に浮かぶ大きな氷の塊",
+        "example": "氷山が海に浮かんでいる。"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "grade": 3,
+    "kanji": "表",
+    "readings": {
+      "on": [
+        "ヒョウ"
+      ],
+      "kun": [
+        "おもて",
+        "あらわ-す",
+        "あらわ-れる"
+      ]
+    },
+    "origin": "衣の上に毛が出た形から、外側・表を表す字。",
+    "vocabulary": [
+      {
+        "word": "表",
+        "reading": "おもて",
+        "meaning": "外側・正面",
+        "example": "封筒の表に住所を書く。"
+      },
+      {
+        "word": "発表",
+        "reading": "はっぴょう",
+        "meaning": "みんなに知らせること",
+        "example": "発表の準備をする。"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "grade": 3,
+    "kanji": "秒",
+    "readings": {
+      "on": [
+        "ビョウ"
+      ],
+      "kun": []
+    },
+    "origin": "禾と少を組み合わせた字。時間の単位を表す。",
+    "vocabulary": [
+      {
+        "word": "秒",
+        "reading": "びょう",
+        "meaning": "時間の単位（1分の60分の1）",
+        "example": "10秒でゴールした。"
+      },
+      {
+        "word": "秒針",
+        "reading": "びょうしん",
+        "meaning": "時計の秒を指す針",
+        "example": "秒針が動く。"
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "grade": 3,
+    "kanji": "病",
+    "readings": {
+      "on": [
+        "ビョウ",
+        "ヘイ"
+      ],
+      "kun": [
+        "やまい",
+        "や-む"
+      ]
+    },
+    "origin": "疒と丙を組み合わせた字。体の具合が悪いことを表す。",
+    "vocabulary": [
+      {
+        "word": "病気",
+        "reading": "びょうき",
+        "meaning": "体の具合が悪い状態",
+        "example": "病気で学校を休む。"
+      },
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "病気を治す場所",
+        "example": "病院に行く。"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "grade": 3,
+    "kanji": "品",
+    "readings": {
+      "on": [
+        "ヒン"
+      ],
+      "kun": [
+        "しな"
+      ]
+    },
+    "origin": "三つの口を積み重ねた形。品物を表す字。",
+    "vocabulary": [
+      {
+        "word": "品物",
+        "reading": "しなもの",
+        "meaning": "売買される物",
+        "example": "品物を選ぶ。"
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "作ったもの",
+        "example": "絵の作品を展示する。"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "grade": 3,
+    "kanji": "部",
+    "readings": {
+      "on": [
+        "ブ"
+      ],
+      "kun": [
+        "べ"
+      ]
+    },
+    "origin": "咅と邑を組み合わせた字。集団・部分を表す。",
+    "vocabulary": [
+      {
+        "word": "部活",
+        "reading": "ぶかつ",
+        "meaning": "学校の部活動",
+        "example": "部活でサッカーをする。"
+      },
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "建物の中の区切られた空間",
+        "example": "自分の部屋を片付ける。"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "grade": 3,
+    "kanji": "服",
+    "readings": {
+      "on": [
+        "フク"
+      ],
+      "kun": []
+    },
+    "origin": "月（舟）と人と手を組み合わせた字。衣服を表す。",
+    "vocabulary": [
+      {
+        "word": "服",
+        "reading": "ふく",
+        "meaning": "体に着るもの",
+        "example": "新しい服を買う。"
+      },
+      {
+        "word": "制服",
+        "reading": "せいふく",
+        "meaning": "決められた服装",
+        "example": "学校の制服を着る。"
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "grade": 3,
+    "kanji": "福",
+    "readings": {
+      "on": [
+        "フク"
+      ],
+      "kun": []
+    },
+    "origin": "示と畐を組み合わせた字。神からの幸福を表す。",
+    "vocabulary": [
+      {
+        "word": "幸福",
+        "reading": "こうふく",
+        "meaning": "幸せな状態",
+        "example": "幸福な生活を送る。"
+      },
+      {
+        "word": "福祉",
+        "reading": "ふくし",
+        "meaning": "みんなが幸せに暮らせる仕組み",
+        "example": "福祉の仕事をする。"
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "grade": 3,
+    "kanji": "平",
+    "readings": {
+      "on": [
+        "ヘイ",
+        "ビョウ"
+      ],
+      "kun": [
+        "たい-ら",
+        "ひら"
+      ]
+    },
+    "origin": "水面が平らな形。平らなことを表す。",
+    "vocabulary": [
+      {
+        "word": "平ら",
+        "reading": "たいら",
+        "meaning": "でこぼこのない状態",
+        "example": "平らな道を歩く。"
+      },
+      {
+        "word": "平和",
+        "reading": "へいわ",
+        "meaning": "争いがなく穏やかな状態",
+        "example": "平和な世界を願う。"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "grade": 3,
+    "kanji": "返",
+    "readings": {
+      "on": [
+        "ヘン"
+      ],
+      "kun": [
+        "かえ-す",
+        "かえ-る"
+      ]
+    },
+    "origin": "辶と反を組み合わせた字。もとに戻ることを表す。",
+    "vocabulary": [
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "meaning": "借りた物を持ち主に渡すこと",
+        "example": "本を図書館に返す。"
+      },
+      {
+        "word": "返事",
+        "reading": "へんじ",
+        "meaning": "相手の言葉への答え",
+        "example": "すぐに返事をする。"
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "grade": 3,
+    "kanji": "勉",
+    "readings": {
+      "on": [
+        "ベン"
+      ],
+      "kun": [
+        "つと-める"
+      ]
+    },
+    "origin": "免と力を組み合わせた字。努力することを表す。",
+    "vocabulary": [
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "学習すること",
+        "example": "毎日勉強する。"
+      },
+      {
+        "word": "勤勉",
+        "reading": "きんべん",
+        "meaning": "まじめに努力すること",
+        "example": "勤勉な生徒が褒められた。"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "grade": 3,
+    "kanji": "放",
+    "readings": {
+      "on": [
+        "ホウ"
+      ],
+      "kun": [
+        "はな-す",
+        "はな-つ",
+        "はな-れる"
+      ]
+    },
+    "origin": "方と攴を組み合わせた字。解き放つことを表す。",
+    "vocabulary": [
+      {
+        "word": "放す",
+        "reading": "はなす",
+        "meaning": "つかんでいたものを離すこと",
+        "example": "捕まえた虫を放す。"
+      },
+      {
+        "word": "放課後",
+        "reading": "ほうかご",
+        "meaning": "授業が終わった後の時間",
+        "example": "放課後に遊ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "grade": 3,
+    "kanji": "味",
+    "readings": {
+      "on": [
+        "ミ"
+      ],
+      "kun": [
+        "あじ",
+        "あじ-わう"
+      ]
+    },
+    "origin": "口と未を組み合わせた字。口で味わうことを表す。",
+    "vocabulary": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "meaning": "食べ物の美味しさ・感覚",
+        "example": "この料理は良い味だ。"
+      },
+      {
+        "word": "趣味",
+        "reading": "しゅみ",
+        "meaning": "楽しみでやること",
+        "example": "絵を描くのが趣味だ。"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "grade": 3,
+    "kanji": "命",
+    "readings": {
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kun": [
+        "いのち"
+      ]
+    },
+    "origin": "人と口と叩を組み合わせた字。命令・いのちを表す。",
+    "vocabulary": [
+      {
+        "word": "命",
+        "reading": "いのち",
+        "meaning": "生きているための力",
+        "example": "命を大切にする。"
+      },
+      {
+        "word": "命令",
+        "reading": "めいれい",
+        "meaning": "上の人が下の人に指示すること",
+        "example": "命令に従う。"
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "grade": 3,
+    "kanji": "面",
+    "readings": {
+      "on": [
+        "メン"
+      ],
+      "kun": [
+        "おも",
+        "つら",
+        "おもて"
+      ]
+    },
+    "origin": "顔の形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "meaning": "楽しくて興味深い様子",
+        "example": "面白い本を読んだ。"
+      },
+      {
+        "word": "表面",
+        "reading": "ひょうめん",
+        "meaning": "物の外側の面",
+        "example": "表面を磨く。"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "grade": 3,
+    "kanji": "問",
+    "readings": {
+      "on": [
+        "モン"
+      ],
+      "kun": [
+        "と-う",
+        "とい",
+        "とん"
+      ]
+    },
+    "origin": "門と口を組み合わせた字。問いかけることを表す。",
+    "vocabulary": [
+      {
+        "word": "問う",
+        "reading": "とう",
+        "meaning": "質問すること",
+        "example": "先生に問う。"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "解くべき課題",
+        "example": "問題を解く。"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "grade": 3,
+    "kanji": "薬",
+    "readings": {
+      "on": [
+        "ヤク"
+      ],
+      "kun": [
+        "くすり"
+      ]
+    },
+    "origin": "草と楽を組み合わせた字。病気を治す草を表す。",
+    "vocabulary": [
+      {
+        "word": "薬",
+        "reading": "くすり",
+        "meaning": "病気を治すもの",
+        "example": "薬を飲む。"
+      },
+      {
+        "word": "薬局",
+        "reading": "やっきょく",
+        "meaning": "薬を売る場所",
+        "example": "薬局で薬を買う。"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "grade": 3,
+    "kanji": "役",
+    "readings": {
+      "on": [
+        "ヤク",
+        "エキ"
+      ],
+      "kun": []
+    },
+    "origin": "彳と殳（武器）を組み合わせた字。任務・役割を表す。",
+    "vocabulary": [
+      {
+        "word": "役",
+        "reading": "やく",
+        "meaning": "担当する仕事・役割",
+        "example": "劇で主役を演じる。"
+      },
+      {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "助けになること",
+        "example": "この知識が役に立つ。"
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "grade": 3,
+    "kanji": "由",
+    "readings": {
+      "on": [
+        "ユ",
+        "ユウ",
+        "ユイ"
+      ],
+      "kun": [
+        "よし"
+      ]
+    },
+    "origin": "酒のつぼから液体が出る形。理由・由来を表す。",
+    "vocabulary": [
+      {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "そうなった訳・わけ",
+        "example": "遅刻した理由を話す。"
+      },
+      {
+        "word": "自由",
+        "reading": "じゆう",
+        "meaning": "自分の思い通りに行動できること",
+        "example": "自由な時間を楽しむ。"
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "grade": 3,
+    "kanji": "油",
+    "readings": {
+      "on": [
+        "ユ"
+      ],
+      "kun": [
+        "あぶら"
+      ]
+    },
+    "origin": "水と由を組み合わせた字。水のような油を表す。",
+    "vocabulary": [
+      {
+        "word": "油",
+        "reading": "あぶら",
+        "meaning": "水に溶けない液体",
+        "example": "フライパンに油を引く。"
+      },
+      {
+        "word": "石油",
+        "reading": "せきゆ",
+        "meaning": "地中から取れる油",
+        "example": "石油で機械を動かす。"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "grade": 3,
+    "kanji": "有",
+    "readings": {
+      "on": [
+        "ユウ",
+        "ウ"
+      ],
+      "kun": [
+        "あ-る"
+      ]
+    },
+    "origin": "手で肉を持っている形。持っている・存在することを表す。",
+    "vocabulary": [
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "meaning": "널리 知られていること",
+        "example": "有名な場所を訪れる。"
+      },
+      {
+        "word": "所有",
+        "reading": "しょゆう",
+        "meaning": "自分のものとして持つこと",
+        "example": "自分の所有物を大切にする。"
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "grade": 3,
+    "kanji": "遊",
+    "readings": {
+      "on": [
+        "ユウ"
+      ],
+      "kun": [
+        "あそ-ぶ"
+      ]
+    },
+    "origin": "辶と旒（はたなびく）を組み合わせた字。楽しく過ごすことを表す。",
+    "vocabulary": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": "楽しみのために行動すること",
+        "example": "公園で遊ぶ。"
+      },
+      {
+        "word": "遊園地",
+        "reading": "ゆうえんち",
+        "meaning": "楽しい乗り物がある場所",
+        "example": "遊園地に行く。"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "grade": 3,
+    "kanji": "予",
+    "readings": {
+      "on": [
+        "ヨ"
+      ],
+      "kun": [
+        "あらかじ-め"
+      ]
+    },
+    "origin": "象の歯の形から、前もってを表す字。",
+    "vocabulary": [
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "前もって決めた計画",
+        "example": "来週の予定を確認する。"
+      },
+      {
+        "word": "予習",
+        "reading": "よしゅう",
+        "meaning": "授業の前に勉強すること",
+        "example": "予習をして授業に臨む。"
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "grade": 3,
+    "kanji": "羊",
+    "readings": {
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "ひつじ"
+      ]
+    },
+    "origin": "羊の角がある頭の形をそのまま文字にしたもの。",
+    "vocabulary": [
+      {
+        "word": "羊",
+        "reading": "ひつじ",
+        "meaning": "毛が白くて柔らかい動物",
+        "example": "羊の毛を刈る。"
+      },
+      {
+        "word": "羊毛",
+        "reading": "ようもう",
+        "meaning": "羊の毛から作る繊維",
+        "example": "羊毛でセーターを編む。"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "grade": 3,
+    "kanji": "洋",
+    "readings": {
+      "on": [
+        "ヨウ"
+      ],
+      "kun": []
+    },
+    "origin": "水と羊を組み合わせた字。広い海を表す。",
+    "vocabulary": [
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "meaning": "西洋式の服",
+        "example": "洋服に着替える。"
+      },
+      {
+        "word": "太平洋",
+        "reading": "たいへいよう",
+        "meaning": "日本の東に広がる大きな海",
+        "example": "太平洋を渡る。"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "grade": 3,
+    "kanji": "陽",
+    "readings": {
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "ひ"
+      ]
+    },
+    "origin": "阜と昜を組み合わせた字。日当たりの良い側を表す。",
+    "vocabulary": [
+      {
+        "word": "太陽",
+        "reading": "たいよう",
+        "meaning": "地球に光と熱を届ける星",
+        "example": "太陽が輝く。"
+      },
+      {
+        "word": "陽気",
+        "reading": "ようき",
+        "meaning": "明るく元気な様子",
+        "example": "陽気な友達と遊ぶ。"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "grade": 3,
+    "kanji": "葉",
+    "readings": {
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "は"
+      ]
+    },
+    "origin": "草と世と木を組み合わせた字。植物の葉を表す。",
+    "vocabulary": [
+      {
+        "word": "葉",
+        "reading": "は",
+        "meaning": "植物の平らな緑の部分",
+        "example": "木の葉が落ちる。"
+      },
+      {
+        "word": "紅葉",
+        "reading": "こうよう",
+        "meaning": "秋に葉が赤や黄色になること",
+        "example": "紅葉を見に行く。"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "grade": 3,
+    "kanji": "様",
+    "readings": {
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "さま"
+      ]
+    },
+    "origin": "木と羊と水を組み合わせた字。ありさま・様子を表す。",
+    "vocabulary": [
+      {
+        "word": "様子",
+        "reading": "ようす",
+        "meaning": "物事の状態・見た目",
+        "example": "様子を見に行く。"
+      },
+      {
+        "word": "お客様",
+        "reading": "おきゃくさま",
+        "meaning": "客への丁寧な呼び方",
+        "example": "お客様をお迎えする。"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "grade": 3,
+    "kanji": "落",
+    "readings": {
+      "on": [
+        "ラク"
+      ],
+      "kun": [
+        "お-ちる",
+        "お-とす",
+        "おと"
+      ]
+    },
+    "origin": "草と水と各を組み合わせた字。下に落ちることを表す。",
+    "vocabulary": [
+      {
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "高いところから下に移動すること",
+        "example": "木の実が落ちる。"
+      },
+      {
+        "word": "落ち葉",
+        "reading": "おちば",
+        "meaning": "木から落ちた葉",
+        "example": "落ち葉を集める。"
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "grade": 3,
+    "kanji": "流",
+    "readings": {
+      "on": [
+        "リュウ",
+        "ル"
+      ],
+      "kun": [
+        "なが-れる",
+        "なが-す"
+      ]
+    },
+    "origin": "水と流れる物の形を組み合わせた字。",
+    "vocabulary": [
+      {
+        "word": "流れる",
+        "reading": "ながれる",
+        "meaning": "液体が動いて移動すること",
+        "example": "川が流れる。"
+      },
+      {
+        "word": "流行",
+        "reading": "りゅうこう",
+        "meaning": "世の中で広く流行ること",
+        "example": "新しい流行が来た。"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "grade": 3,
+    "kanji": "旅",
+    "readings": {
+      "on": [
+        "リョ"
+      ],
+      "kun": [
+        "たび"
+      ]
+    },
+    "origin": "方と人を組み合わせた字。家を離れて移動することを表す。",
+    "vocabulary": [
+      {
+        "word": "旅",
+        "reading": "たび",
+        "meaning": "遠い場所に行くこと",
+        "example": "家族で旅に出る。"
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "遠くに出かけること",
+        "example": "旅行の計画を立てる。"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "grade": 3,
+    "kanji": "両",
+    "readings": {
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "りょう"
+      ]
+    },
+    "origin": "両端に重りがついた天秤の形。両方を表す。",
+    "vocabulary": [
+      {
+        "word": "両方",
+        "reading": "りょうほう",
+        "meaning": "二つともどちらも",
+        "example": "両方の手を使う。"
+      },
+      {
+        "word": "両親",
+        "reading": "りょうしん",
+        "meaning": "父と母のこと",
+        "example": "両親に感謝する。"
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "grade": 3,
+    "kanji": "緑",
+    "readings": {
+      "on": [
+        "リョク",
+        "ロク"
+      ],
+      "kun": [
+        "みどり"
+      ]
+    },
+    "origin": "糸と录を組み合わせた字。草木の色を表す。",
+    "vocabulary": [
+      {
+        "word": "緑",
+        "reading": "みどり",
+        "meaning": "草木のような青みがかった色",
+        "example": "公園の緑が美しい。"
+      },
+      {
+        "word": "緑化",
+        "reading": "りょくか",
+        "meaning": "草木を植えて緑にすること",
+        "example": "砂漠の緑化に取り組む。"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "grade": 3,
+    "kanji": "礼",
+    "readings": {
+      "on": [
+        "レイ",
+        "ライ"
+      ],
+      "kun": []
+    },
+    "origin": "示と乚を組み合わせた字。神への礼を表す。",
+    "vocabulary": [
+      {
+        "word": "礼",
+        "reading": "れい",
+        "meaning": "感謝や敬意を表す行動",
+        "example": "先生にお礼を言う。"
+      },
+      {
+        "word": "礼儀",
+        "reading": "れいぎ",
+        "meaning": "人との付き合いの作法",
+        "example": "礼儀正しく振る舞う。"
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "grade": 3,
+    "kanji": "列",
+    "readings": {
+      "on": [
+        "レツ"
+      ],
+      "kun": [
+        "れつ"
+      ]
+    },
+    "origin": "歹と刀を組み合わせた字。並べることを表す。",
+    "vocabulary": [
+      {
+        "word": "列",
+        "reading": "れつ",
+        "meaning": "並んだ形",
+        "example": "列に並ぶ。"
+      },
+      {
+        "word": "行列",
+        "reading": "ぎょうれつ",
+        "meaning": "多くの人が並んでいる様子",
+        "example": "人気店に行列ができる。"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "grade": 3,
+    "kanji": "練",
+    "readings": {
+      "on": [
+        "レン"
+      ],
+      "kun": [
+        "ね-る"
+      ]
+    },
+    "origin": "糸と柬を組み合わせた字。糸を練ることから練習を表す。",
+    "vocabulary": [
+      {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "上手になるために繰り返すこと",
+        "example": "毎日ピアノを練習する。"
+      },
+      {
+        "word": "訓練",
+        "reading": "くんれん",
+        "meaning": "技術を高めるための練習",
+        "example": "体力訓練をする。"
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "grade": 3,
+    "kanji": "路",
+    "readings": {
+      "on": [
+        "ロ"
+      ],
+      "kun": [
+        "じ",
+        "みち"
+      ]
+    },
+    "origin": "足と各を組み合わせた字。通り道を表す。",
+    "vocabulary": [
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "meaning": "車や人が通る道",
+        "example": "道路を横断する。"
+      },
+      {
+        "word": "線路",
+        "reading": "せんろ",
+        "meaning": "電車が走る線",
+        "example": "線路の近くに住む。"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "grade": 3,
+    "kanji": "和",
+    "readings": {
+      "on": [
+        "ワ"
+      ],
+      "kun": [
+        "やわ-らぐ",
+        "なご-む"
+      ]
+    },
+    "origin": "禾と口を組み合わせた字。穏やかに調和することを表す。",
+    "vocabulary": [
+      {
+        "word": "和食",
+        "reading": "わしょく",
+        "meaning": "日本の伝統的な料理",
+        "example": "和食のレストランに行く。"
+      },
+      {
+        "word": "平和",
+        "reading": "へいわ",
+        "meaning": "争いのない穏やかな状態",
+        "example": "世界の平和を願う。"
+      }
+    ]
   }
 ]
