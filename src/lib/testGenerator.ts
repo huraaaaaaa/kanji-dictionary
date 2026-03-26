@@ -45,6 +45,7 @@ export function generateQuestions(
         choices,
         choicesWithReadings,
         sourceWord: vocab.word,
+        sourceReading: vocab.reading,
       };
     }
 
@@ -57,6 +58,7 @@ export function generateQuestions(
         answer: vocab.meaning,
         choices,
         sourceWord: vocab.word,
+        sourceReading: vocab.reading,
         promptWord: vocab.word,
         promptReading: vocab.reading,
       };
@@ -70,6 +72,7 @@ export function generateQuestions(
       answer: vocab.word,
       blankedSentence,
       sourceWord: vocab.word,
+      sourceReading: vocab.reading,
     };
   });
 }

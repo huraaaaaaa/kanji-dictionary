@@ -177,7 +177,7 @@ function TestSession() {
               }`}>
                 {currentAnswer === currentQuestion.answer
                   ? '正解！'
-                  : `不正解。正解は「${currentQuestion.answer}」`}
+                  : <>不正解。正解は「<Furigana word={currentQuestion.sourceWord} reading={currentQuestion.sourceReading ?? ''} />」</>}
               </div>
             )}
           </div>

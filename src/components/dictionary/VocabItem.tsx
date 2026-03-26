@@ -10,6 +10,20 @@ interface VocabItemProps {
   onToggleFavorite: () => void;
 }
 
+function renderExampleWithFurigana(example: string, word: string, reading: string) {
+  const parts = example.split(word);
+  return (
+    <>
+      {parts.map((part, i) => (
+        <span key={i}>
+          {part}
+          {i < parts.length - 1 && <Furigana word={word} reading={reading} />}
+        </span>
+      ))}
+    </>
+  );
+}
+
 export default function VocabItem({ vocab, isFavorite, onToggleFavorite }: VocabItemProps) {
   return (
     <div className="bg-gray-50 rounded-xl p-4 space-y-2">
@@ -34,7 +48,7 @@ export default function VocabItem({ vocab, isFavorite, onToggleFavorite }: Vocab
       <div className="flex items-start gap-2">
         <p className="text-gray-500 text-sm flex-1">
           <span className="text-xs font-medium text-blue-600 mr-1">例文</span>
-          {vocab.example}
+          {renderExampleWithFurigana(vocab.example, vocab.word, vocab.reading)}
         </p>
         <SpeakButton text={vocab.example} label="例文" size="sm" />
       </div>

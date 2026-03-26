@@ -29,6 +29,7 @@ export interface Question {
   choicesWithReadings?: { text: string; reading: string }[];
   blankedSentence?: string;
   sourceWord: string;
+  sourceReading?: string;
   promptWord?: string;
   promptReading?: string;
 }
