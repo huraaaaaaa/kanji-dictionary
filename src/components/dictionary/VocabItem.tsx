@@ -1,6 +1,7 @@
 'use client';
 
 import { VocabEntry } from '@/types';
+import Furigana from '@/components/Furigana';
 import SpeakButton from './SpeakButton';
 
 interface VocabItemProps {
@@ -14,8 +15,7 @@ export default function VocabItem({ vocab, isFavorite, onToggleFavorite }: Vocab
     <div className="bg-gray-50 rounded-xl p-4 space-y-2">
       <div className="flex items-start justify-between gap-2">
         <div>
-          <span className="text-xl font-bold text-gray-900">{vocab.word}</span>
-          <span className="ml-2 text-sm text-gray-500">【{vocab.reading}】</span>
+          <Furigana word={vocab.word} reading={vocab.reading} className="text-xl font-bold text-gray-900" />
         </div>
         <div className="flex items-center gap-1 flex-shrink-0">
           <SpeakButton text={`${vocab.word}。${vocab.reading}。${vocab.meaning}。${vocab.example}`} label={vocab.word} size="sm" />

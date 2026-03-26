@@ -26,6 +26,7 @@ export function generateQuestions(
   const allVocab: VocabEntry[] = entries.flatMap((e) => e.vocabulary);
   const allWords = allVocab.map((v) => v.word);
   const allMeanings = allVocab.map((v) => v.meaning);
+  const wordReadingMap = new Map(allVocab.map((v) => [v.word, v.reading]));
 
   const shuffled = shuffle(allVocab).slice(0, count);
 
@@ -33,11 +34,16 @@ export function generateQuestions(
     if (type === 'meaning-to-word') {
       const distractors = pickDistractors(vocab.word, allWords, 3);
       const choices = shuffle([vocab.word, ...distractors]);
+      const choicesWithReadings = choices.map((text) => ({
+        text,
+        reading: wordReadingMap.get(text) ?? '',
+      }));
       return {
         type,
         prompt: vocab.meaning,
         answer: vocab.word,
         choices,
+        choicesWithReadings,
         sourceWord: vocab.word,
       };
     }
@@ -47,10 +53,12 @@ export function generateQuestions(
       const choices = shuffle([vocab.meaning, ...distractors]);
       return {
         type,
-        prompt: `「${vocab.word}」（${vocab.reading}）の意味は？`,
+        prompt: `「${vocab.word}」の意味は？`,
         answer: vocab.meaning,
         choices,
         sourceWord: vocab.word,
+        promptWord: vocab.word,
+        promptReading: vocab.reading,
       };
     }
 

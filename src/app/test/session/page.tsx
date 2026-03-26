@@ -4,6 +4,7 @@ import { Suspense, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import TopBar from '@/components/layout/TopBar';
 import PageWrapper from '@/components/layout/PageWrapper';
+import Furigana from '@/components/Furigana';
 import { QuestionType } from '@/types';
 import { useTest } from '@/hooks/useTest';
 
@@ -105,6 +106,8 @@ function TestSession() {
           <p className="text-base font-medium text-gray-800 leading-relaxed w-full">
             {currentQuestion.type === 'fill-blank'
               ? currentQuestion.blankedSentence
+              : currentQuestion.type === 'word-to-meaning' && currentQuestion.promptWord && currentQuestion.promptReading
+              ? <>「<Furigana word={currentQuestion.promptWord} reading={currentQuestion.promptReading} />」の意味は？</>
               : currentQuestion.prompt}
           </p>
         </div>
@@ -112,12 +115,15 @@ function TestSession() {
         {/* Multiple choice */}
         {(currentQuestion.type === 'meaning-to-word' || currentQuestion.type === 'word-to-meaning') && currentQuestion.choices && (
           <div className="space-y-3">
-            {currentQuestion.choices.map((choice) => {
+            {currentQuestion.choices.map((choice, i) => {
               let state: 'idle' | 'correct' | 'incorrect' = 'idle';
               if (hasAnswered) {
                 if (choice === currentQuestion.answer) state = 'correct';
                 else if (choice === currentAnswer) state = 'incorrect';
               }
+              const choiceWithReading = currentQuestion.choicesWithReadings?.[
+                currentQuestion.choicesWithReadings.findIndex((c) => c.text === choice)
+              ];
               return (
                 <button
                   key={choice}
@@ -133,7 +139,9 @@ function TestSession() {
                       : 'border-gray-200 bg-white text-gray-800 hover:border-blue-300 active:bg-blue-50'
                   }`}
                 >
-                  {choice}
+                  {choiceWithReading
+                    ? <Furigana word={choiceWithReading.text} reading={choiceWithReading.reading} />
+                    : choice}
                 </button>
               );
             })}
