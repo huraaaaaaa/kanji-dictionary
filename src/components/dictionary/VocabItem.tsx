@@ -2,6 +2,7 @@
 
 import { VocabEntry } from '@/types';
 import Furigana from '@/components/Furigana';
+import FuriganaHtml from '@/components/FuriganaHtml';
 import SpeakButton from './SpeakButton';
 
 interface VocabItemProps {
@@ -44,11 +45,17 @@ export default function VocabItem({ vocab, isFavorite, onToggleFavorite }: Vocab
           </button>
         </div>
       </div>
-      <p className="text-gray-700 text-sm">{vocab.meaning}</p>
+      <p className="text-gray-700 text-sm">
+        {vocab.meaningFurigana
+          ? <FuriganaHtml html={vocab.meaningFurigana} />
+          : vocab.meaning}
+      </p>
       <div className="flex items-start gap-2">
         <p className="text-gray-500 text-sm flex-1">
-          <span className="text-xs font-medium text-blue-600 mr-1">例文</span>
-          {renderExampleWithFurigana(vocab.example, vocab.word, vocab.reading)}
+          <span className="text-xs font-medium text-blue-600 mr-1"><ruby>例文<rt>れいぶん</rt></ruby></span>
+          {vocab.exampleFurigana
+            ? <FuriganaHtml html={vocab.exampleFurigana} />
+            : renderExampleWithFurigana(vocab.example, vocab.word, vocab.reading)}
         </p>
         <SpeakButton text={vocab.example} label="例文" size="sm" />
       </div>

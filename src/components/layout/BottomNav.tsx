@@ -1,12 +1,14 @@
 'use client';
 
+import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
-const NAV_ITEMS = [
+const NAV_ITEMS: { href: string; ariaLabel: string; label: React.ReactNode; icon: React.ReactNode }[] = [
   {
     href: '/dictionary',
-    label: '辞典',
+    ariaLabel: '辞典',
+    label: <><ruby>辞<rt>じ</rt></ruby><ruby>典<rt>てん</rt></ruby></>,
     icon: (
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
@@ -16,6 +18,7 @@ const NAV_ITEMS = [
   },
   {
     href: '/test',
+    ariaLabel: 'テスト',
     label: 'テスト',
     icon: (
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -26,6 +29,7 @@ const NAV_ITEMS = [
   },
   {
     href: '/mypage',
+    ariaLabel: 'マイページ',
     label: 'マイページ',
     icon: (
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -53,7 +57,7 @@ export default function BottomNav() {
                 className={`flex-1 flex flex-col items-center justify-center py-2 gap-1 min-h-[56px] transition-colors ${
                   isActive ? 'text-blue-600' : 'text-gray-500 hover:text-gray-700'
                 }`}
-                aria-label={item.label}
+                aria-label={item.ariaLabel}
               >
                 {item.icon}
                 <span className="text-xs font-medium">{item.label}</span>
@@ -76,7 +80,7 @@ export default function BottomNav() {
                   ? 'bg-blue-50 text-blue-600'
                   : 'text-gray-500 hover:bg-gray-100 hover:text-gray-700'
               }`}
-              aria-label={item.label}
+              aria-label={item.ariaLabel}
             >
               {item.icon}
               <span className="text-xs font-medium">{item.label}</span>

@@ -12,10 +12,25 @@ import { KanjiEntry } from '@/types';
 
 const allEntries = dictionaryData as KanjiEntry[];
 
-const TEST_TYPES: { type: QuestionType; label: string; desc: string; emoji: string }[] = [
-  { type: 'meaning-to-word', label: '意味から単語', desc: '意味を見て、正しい単語を選ぼう', emoji: '📝' },
-  { type: 'word-to-meaning', label: '単語から意味', desc: '単語を見て、正しい意味を選ぼう', emoji: '🔍' },
-  { type: 'fill-blank', label: '穴埋め問題', desc: '例文の＿＿＿に入る単語を答えよう', emoji: '✏️' },
+const TEST_TYPES: { type: QuestionType; label: React.ReactNode; desc: React.ReactNode; emoji: string }[] = [
+  {
+    type: 'meaning-to-word',
+    label: <><ruby>意味<rt>いみ</rt></ruby>から<ruby>単語<rt>たんご</rt></ruby></>,
+    desc: <><ruby>意味<rt>いみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>正<rt>ただ</rt></ruby>しい<ruby>単語<rt>たんご</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぼう</>,
+    emoji: '📝',
+  },
+  {
+    type: 'word-to-meaning',
+    label: <><ruby>単語<rt>たんご</rt></ruby>から<ruby>意味<rt>いみ</rt></ruby></>,
+    desc: <><ruby>単語<rt>たんご</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>正<rt>ただ</rt></ruby>しい<ruby>意味<rt>いみ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぼう</>,
+    emoji: '🔍',
+  },
+  {
+    type: 'fill-blank',
+    label: <><ruby>穴<rt>あな</rt></ruby><ruby>埋<rt>う</rt></ruby>め<ruby>問題<rt>もんだい</rt></ruby></>,
+    desc: <><ruby>例文<rt>れいぶん</rt></ruby>の＿＿＿に<ruby>入<rt>はい</rt></ruby>る<ruby>単語<rt>たんご</rt></ruby>を<ruby>答<rt>こた</rt></ruby>えよう</>,
+    emoji: '✏️',
+  },
 ];
 
 const COUNTS = [5, 10];
@@ -44,16 +59,16 @@ export default function TestPage() {
       <TopBar title="語彙テスト" />
       <PageWrapper>
         {/* Grade */}
-        <h2 className="text-base font-semibold text-gray-700 mb-3">学年</h2>
+        <h2 className="text-base font-semibold text-gray-700 mb-3"><ruby>学年<rt>がくねん</rt></ruby></h2>
         <div className="mb-6">
           <GradeSelector selected={grade} onChange={setGrade} />
           <p className="text-xs text-gray-400 mt-2">
-            対象語彙数：{vocabCount}語
+            <ruby>対象<rt>たいしょう</rt></ruby><ruby>語彙<rt>ごい</rt></ruby><ruby>数<rt>すう</rt></ruby>：{vocabCount}<ruby>語<rt>ご</rt></ruby>
           </p>
         </div>
 
         {/* Test type */}
-        <h2 className="text-base font-semibold text-gray-700 mb-3">問題の種類</h2>
+        <h2 className="text-base font-semibold text-gray-700 mb-3"><ruby>問題<rt>もんだい</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby></h2>
         <div className="space-y-3 mb-6">
           {TEST_TYPES.map(({ type, label, desc, emoji }) => (
             <button
@@ -82,7 +97,7 @@ export default function TestPage() {
         </div>
 
         {/* Count */}
-        <h2 className="text-base font-semibold text-gray-700 mb-3">問題数</h2>
+        <h2 className="text-base font-semibold text-gray-700 mb-3"><ruby>問題<rt>もんだい</rt></ruby><ruby>数<rt>すう</rt></ruby></h2>
         <div className="flex gap-3 mb-8">
           {COUNTS.map((n) => {
             const disabled = n > vocabCount;
@@ -99,7 +114,7 @@ export default function TestPage() {
                     : 'border-gray-200 bg-white text-gray-700 hover:border-gray-300'
                 }`}
               >
-                {n}問
+                {n}<ruby>問<rt>もん</rt></ruby>
               </button>
             );
           })}
@@ -110,7 +125,7 @@ export default function TestPage() {
           disabled={vocabCount === 0}
           className="w-full py-4 rounded-xl bg-blue-600 text-white font-bold text-base hover:bg-blue-700 active:bg-blue-800 transition-colors min-h-[56px] shadow-sm disabled:opacity-40"
         >
-          テストを始める 🚀
+          テストを<ruby>始<rt>はじ</rt></ruby>める 🚀
         </button>
       </PageWrapper>
     </>

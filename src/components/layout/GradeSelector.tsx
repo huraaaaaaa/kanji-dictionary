@@ -18,7 +18,7 @@ export default function GradeSelector({ selected, onChange }: GradeSelectorProps
             : 'border-gray-200 text-gray-600 hover:border-blue-300'
         }`}
       >
-        全学年
+        <ruby>全<rt>ぜん</rt></ruby><ruby>学年<rt>がくねん</rt></ruby>
       </button>
       {availableGrades.map((g) => (
         <button
@@ -30,7 +30,7 @@ export default function GradeSelector({ selected, onChange }: GradeSelectorProps
               : 'border-gray-200 text-gray-600 hover:border-blue-300'
           }`}
         >
-          {g}年生
+          {g}<ruby>年生<rt>ねんせい</rt></ruby>
         </button>
       ))}
     </div>

@@ -55,7 +55,7 @@ function TestSession() {
 
           {incorrectWords.length > 0 && (
             <div className="mb-6">
-              <h3 className="text-sm font-semibold text-gray-700 mb-3">間違えた単語（復習しよう）</h3>
+              <h3 className="text-sm font-semibold text-gray-700 mb-3"><ruby>間違<rt>まちが</rt></ruby>えた<ruby>単語<rt>たんご</rt></ruby>（<ruby>復習<rt>ふくしゅう</rt></ruby>しよう）</h3>
               <div className="space-y-2">
                 {incorrectWords.map((word, i) => (
                   <div key={i} className="bg-red-50 border border-red-200 rounded-xl p-3 text-sm text-red-700">

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { KanjiEntry } from '@/types';
 import SpeakButton from './SpeakButton';
 import VocabItem from './VocabItem';
+import FuriganaHtml from '@/components/FuriganaHtml';
 import { useProgress } from '@/hooks/useProgress';
 
 interface KanjiCardProps {
@@ -28,13 +29,13 @@ export default function KanjiCard({ entry, compact = false }: KanjiCardProps) {
             <div>
               <div className="flex flex-wrap gap-1 mb-1">
                 {entry.readings.on.map((r) => (
-                  <span key={r} className="bg-blue-100 text-blue-700 text-xs px-2 py-0.5 rounded-full font-medium">音 {r}</span>
+                  <span key={r} className="bg-blue-100 text-blue-700 text-xs px-2 py-0.5 rounded-full font-medium"><ruby>音<rt>おん</rt></ruby> {r}</span>
                 ))}
                 {entry.readings.kun.map((r) => (
-                  <span key={r} className="bg-green-100 text-green-700 text-xs px-2 py-0.5 rounded-full font-medium">訓 {r}</span>
+                  <span key={r} className="bg-green-100 text-green-700 text-xs px-2 py-0.5 rounded-full font-medium"><ruby>訓<rt>くん</rt></ruby> {r}</span>
                 ))}
               </div>
-              <p className="text-sm text-gray-500">{entry.vocabulary.length}語の語彙</p>
+              <p className="text-sm text-gray-500">{entry.vocabulary.length}<ruby>語<rt>ご</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby></p>
             </div>
           </div>
         </div>
@@ -52,10 +53,10 @@ export default function KanjiCard({ entry, compact = false }: KanjiCardProps) {
             <div className="space-y-1">
               <div className="flex flex-wrap gap-1">
                 {entry.readings.on.map((r) => (
-                  <span key={r} className="bg-blue-200 text-blue-800 text-sm px-3 py-1 rounded-full font-medium">音 {r}</span>
+                  <span key={r} className="bg-blue-200 text-blue-800 text-sm px-3 py-1 rounded-full font-medium"><ruby>音<rt>おん</rt></ruby> {r}</span>
                 ))}
                 {entry.readings.kun.map((r) => (
-                  <span key={r} className="bg-green-200 text-green-800 text-sm px-3 py-1 rounded-full font-medium">訓 {r}</span>
+                  <span key={r} className="bg-green-200 text-green-800 text-sm px-3 py-1 rounded-full font-medium"><ruby>訓<rt>くん</rt></ruby> {r}</span>
                 ))}
               </div>
             </div>
@@ -63,14 +64,18 @@ export default function KanjiCard({ entry, compact = false }: KanjiCardProps) {
           <SpeakButton text={readingText} label="読み方" />
         </div>
         <div className="mt-4 pt-4 border-t border-blue-100">
-          <p className="text-xs font-semibold text-blue-600 mb-1">成り立ち</p>
-          <p className="text-sm text-gray-700">{entry.origin}</p>
+          <p className="text-xs font-semibold text-blue-600 mb-1"><ruby>成<rt>な</rt></ruby>り<ruby>立<rt>た</rt></ruby>ち</p>
+          <p className="text-sm text-gray-700">
+            {entry.originFurigana
+              ? <FuriganaHtml html={entry.originFurigana} />
+              : entry.origin}
+          </p>
         </div>
       </div>
 
       {/* Vocabulary */}
       <div>
-        <h3 className="text-sm font-semibold text-gray-600 mb-3">関連語彙</h3>
+        <h3 className="text-sm font-semibold text-gray-600 mb-3"><ruby>関連<rt>かんれん</rt></ruby><ruby>語彙<rt>ごい</rt></ruby></h3>
         <div className="space-y-3">
           {entry.vocabulary.map((vocab) => (
             <VocabItem

@@ -3,6 +3,8 @@ export interface VocabEntry {
   reading: string;
   meaning: string;
   example: string;
+  meaningFurigana?: string;
+  exampleFurigana?: string;
 }
 
 export interface KanjiEntry {
@@ -11,6 +13,7 @@ export interface KanjiEntry {
   kanji: string;
   readings: { on: string[]; kun: string[] };
   origin: string;
+  originFurigana?: string;
   vocabulary: VocabEntry[];
 }
 
