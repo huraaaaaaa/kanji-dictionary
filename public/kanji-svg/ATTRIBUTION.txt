@@ -1,0 +1,5 @@
+KanjiVG stroke order SVG data
+Copyright (C) 2009-2023 Ulrich Apel
+Licensed under Creative Commons Attribution Share-Alike 3.0
+https://kanjivg.tagaini.net
+https://github.com/KanjiVG/kanjivg

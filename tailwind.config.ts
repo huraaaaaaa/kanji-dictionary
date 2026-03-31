@@ -12,6 +12,15 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      keyframes: {
+        'stroke-draw': {
+          from: { strokeDashoffset: 'var(--stroke-len)' },
+          to:   { strokeDashoffset: '0' },
+        },
+      },
+      animation: {
+        'stroke-draw': 'stroke-draw 0.5s ease-in-out forwards',
+      },
     },
   },
   plugins: [],

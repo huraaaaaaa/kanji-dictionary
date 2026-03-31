@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { KanjiEntry } from '@/types';
 import SpeakButton from './SpeakButton';
 import VocabItem from './VocabItem';
+import StrokeOrder from './StrokeOrder';
 import FuriganaHtml from '@/components/FuriganaHtml';
 import { useProgress } from '@/hooks/useProgress';
 
@@ -71,6 +72,14 @@ export default function KanjiCard({ entry, compact = false }: KanjiCardProps) {
               : entry.origin}
           </p>
         </div>
+      </div>
+
+      {/* Stroke order */}
+      <div className="bg-white border border-gray-200 rounded-2xl p-5">
+        <h3 className="text-sm font-semibold text-gray-600 mb-3">
+          <ruby>書<rt>か</rt></ruby>き<ruby>順<rt>じゅん</rt></ruby>
+        </h3>
+        <StrokeOrder kanji={entry.kanji} />
       </div>
 
       {/* Vocabulary */}
