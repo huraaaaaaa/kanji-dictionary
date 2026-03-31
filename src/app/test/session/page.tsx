@@ -5,6 +5,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import TopBar from '@/components/layout/TopBar';
 import PageWrapper from '@/components/layout/PageWrapper';
 import Furigana from '@/components/Furigana';
+import FuriganaHtml from '@/components/FuriganaHtml';
 import { QuestionType } from '@/types';
 import { useTest } from '@/hooks/useTest';
 
@@ -105,10 +106,14 @@ function TestSession() {
         <div className="bg-white rounded-2xl border border-gray-200 p-5 mb-5 shadow-sm min-h-[100px] flex items-center">
           <p className="text-base font-medium text-gray-800 leading-relaxed w-full">
             {currentQuestion.type === 'fill-blank'
-              ? currentQuestion.blankedSentence
+              ? (currentQuestion.blankedSentenceFurigana
+                  ? <FuriganaHtml html={currentQuestion.blankedSentenceFurigana} />
+                  : currentQuestion.blankedSentence)
               : currentQuestion.type === 'word-to-meaning' && currentQuestion.promptWord && currentQuestion.promptReading
-              ? <>「<Furigana word={currentQuestion.promptWord} reading={currentQuestion.promptReading} />」の意味は？</>
-              : currentQuestion.prompt}
+              ? <>「<Furigana word={currentQuestion.promptWord} reading={currentQuestion.promptReading} />」の<ruby>意味<rt>いみ</rt></ruby>は？</>
+              : (currentQuestion.promptFurigana
+                  ? <FuriganaHtml html={currentQuestion.promptFurigana} />
+                  : currentQuestion.prompt)}
           </p>
         </div>
 
@@ -141,6 +146,8 @@ function TestSession() {
                 >
                   {choiceWithReading
                     ? <Furigana word={choiceWithReading.text} reading={choiceWithReading.reading} />
+                    : currentQuestion.choicesMeaningFurigana?.[i]
+                    ? <FuriganaHtml html={currentQuestion.choicesMeaningFurigana[i]} />
                     : choice}
                 </button>
               );
@@ -177,7 +184,7 @@ function TestSession() {
               }`}>
                 {currentAnswer === currentQuestion.answer
                   ? '正解！'
-                  : <>不正解。正解は「<Furigana word={currentQuestion.sourceWord} reading={currentQuestion.sourceReading ?? ''} />」</>}
+                  : <><ruby>不正解<rt>ふせいかい</rt></ruby>。<ruby>正解<rt>せいかい</rt></ruby>は「<Furigana word={currentQuestion.sourceWord} reading={currentQuestion.sourceReading ?? ''} />」</>}
               </div>
             )}
           </div>

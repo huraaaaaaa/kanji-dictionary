@@ -27,10 +27,13 @@ export type AnswerState = 'idle' | 'correct' | 'incorrect';
 export interface Question {
   type: QuestionType;
   prompt: string;
+  promptFurigana?: string;
   answer: string;
   choices?: string[];
   choicesWithReadings?: { text: string; reading: string }[];
+  choicesMeaningFurigana?: string[];
   blankedSentence?: string;
+  blankedSentenceFurigana?: string;
   sourceWord: string;
   sourceReading?: string;
   promptWord?: string;
