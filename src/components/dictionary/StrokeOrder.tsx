@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { toKanjiVgHex } from '@/lib/kanjiHex';
 
 interface StrokeOrderProps {
@@ -25,14 +25,15 @@ export default function StrokeOrder({ kanji }: StrokeOrderProps) {
         return res.text();
       })
       .then((text) => {
-        setSvgHtml(text);
+        const svgStart = text.indexOf('<svg');
+        setSvgHtml(svgStart >= 0 ? text.slice(svgStart) : text);
         setStatus('loaded');
       })
       .catch(() => setStatus('error'));
   }, [hex]);
 
   // Animate strokes once SVG is injected into DOM
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (status !== 'loaded' || !svgRef.current) return;
     applyAnimation(svgRef.current);
   }, [status, svgHtml]);
@@ -98,13 +99,8 @@ function applyAnimation(container: HTMLDivElement) {
   ).filter((p) => /.*-s\d+$/.test(p.id));
 
   paths.forEach((path, i) => {
-    // Remove previous animation classes to allow replay
-    path.style.animation = 'none';
-    path.style.strokeDasharray = '';
-    path.style.strokeDashoffset = '';
-
-    // Force reflow so the removal takes effect
-    void path.getBoundingClientRect();
+    // Cancel any running animations to allow replay
+    path.getAnimations().forEach((a) => a.cancel());
 
     const len = path.getTotalLength();
 
@@ -114,10 +110,14 @@ function applyAnimation(container: HTMLDivElement) {
     path.style.strokeWidth = '3';
     path.style.strokeLinecap = 'round';
 
-    // Set up dash animation
-    path.style.setProperty('--stroke-len', `${len}px`);
+    // Set up dash — start fully hidden
     path.style.strokeDasharray = `${len}`;
     path.style.strokeDashoffset = `${len}`;
-    path.style.animation = `stroke-draw 0.5s ease-in-out ${i * 0.45}s forwards`;
+
+    // Animate via Web Animations API (no CSS keyframe needed)
+    path.animate(
+      [{ strokeDashoffset: `${len}` }, { strokeDashoffset: '0' }],
+      { duration: 500, delay: i * 450, fill: 'forwards', easing: 'ease-in-out' }
+    );
   });
 }
